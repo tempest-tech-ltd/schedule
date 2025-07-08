@@ -1,0 +1,133 @@
+/* --- Global Styles & Layout --- */
+:root {
+    --color-138: #009688; /* Teal */
+    --color-139: #03A9F4; /* Light Blue */
+    --color-140: #3F51B5; /* Indigo */
+    --color-141: #9C27B0; /* Purple */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 2rem;
+    font-size: 14px;
+}
+
+.schedule-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows columns to wrap on smaller screens */
+    gap: 20px;
+    justify-content: center;
+}
+
+/* --- Individual Column Styles --- */
+.schedule-column {
+    background-color: #fff;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    flex: 1; /* Each column tries to take equal space */
+    min-width: 300px; /* Prevents columns from getting too squished */
+    max-width: 380px;
+}
+
+/* --- Column Header --- */
+.column-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    color: #fff;
+    background-color: var(--version-color); /* Set by version-specific class */
+}
+
+.version-number {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.branch-date {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* --- Version Specific Colors --- */
+.version-138 { --version-color: var(--color-138); }
+.version-139 { --version-color: var(--color-139); }
+.version-140 { --version-color: var(--color-140); }
+.version-141 { --version-color: var(--color-141); }
+
+/* --- Column Body & Sections --- */
+.column-body {
+    padding: 0 16px 16px 16px;
+}
+
+.milestone-section {
+    margin-top: 20px;
+}
+
+.section-title {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+    padding-bottom: 8px;
+    border-bottom: 3px solid var(--version-color); /* Use the version color */
+}
+
+/* --- Milestone Row Styles --- */
+.milestone-list .milestone-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.milestone-list .milestone-row:last-child {
+    border-bottom: none;
+}
+
+.milestone-row > span:last-child {
+    color: #666;
+    text-align: right;
+}
+
+/* --- Special Row Content --- */
+.milestone-row.with-subtext {
+    align-items: flex-start;
+}
+
+.with-subtext small {
+    display: block;
+    font-size: 12px;
+    color: #757575;
+    margin-top: 4px;
+}
+
+.icon-check {
+    color: var(--version-color);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.owner-list {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+#articles-root {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.schedule-container h1 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 12px;
+}
