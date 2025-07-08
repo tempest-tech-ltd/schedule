@@ -61,20 +61,11 @@ function renderMilestone(ms) {
   // Label and value/owners/icon
   const labelSpan = document.createElement('span');
   labelSpan.textContent = ms.label;
-  if (ms.subtext) {
-    const small = document.createElement('small');
-    small.textContent = ms.subtext;
-    labelSpan.appendChild(small);
-  }
 
   let valueSpan;
   if (ms.value) {
     valueSpan = document.createElement('span');
     valueSpan.textContent = ms.value;
-  } else if (ms.icon === 'check') {
-    valueSpan = document.createElement('span');
-    valueSpan.className = 'icon-check';
-    valueSpan.textContent = '✔';
   } else if (ms.owners) {
     valueSpan = document.createElement('span');
     valueSpan.className = 'owner-list';
