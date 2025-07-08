@@ -5,17 +5,17 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (!response.ok) throw new Error('Failed to load schedule.json');
     const data = await response.json();
     const articles = data.slice(0, 4);
-    for (const article of articles) {
-      root.appendChild(renderArticle(article));
-    }
+    articles.forEach((article, idx) => {
+      root.appendChild(renderArticle(article, idx));
+    });
   } catch (e) {
     root.innerHTML = '<p style="color:red">Failed to load schedule data.</p>';
   }
 });
 
-function renderArticle(article) {
+function renderArticle(article, idx) {
   const art = document.createElement('article');
-  art.className = `schedule-column version-${article.version}`;
+  art.className = `schedule-column column-${idx + 1}`;
 
   // Header
   const header = document.createElement('header');

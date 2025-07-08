@@ -1,9 +1,9 @@
 /* --- Global Styles & Layout --- */
 :root {
-    --color-138: #009688; /* Teal */
-    --color-139: #03A9F4; /* Light Blue */
-    --color-140: #3F51B5; /* Indigo */
-    --color-141: #9C27B0; /* Purple */
+    --color-1: #009688; /* Teal */
+    --color-2: #03A9F4; /* Light Blue */
+    --color-3: #3F51B5; /* Indigo */
+    --color-4: #9C27B0; /* Purple */
 }
 
 body {
@@ -12,7 +12,7 @@ body {
     color: #333;
     margin: 0;
     padding: 2rem;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .schedule-container {
@@ -28,9 +28,10 @@ body {
     border-radius: 4px;
     overflow: hidden;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    flex: 1; /* Each column tries to take equal space */
-    min-width: 300px; /* Prevents columns from getting too squished */
+    flex: 1 1 320px;
+    min-width: 260px;
     max-width: 380px;
+    margin-bottom: 24px;
 }
 
 /* --- Column Header --- */
@@ -53,11 +54,11 @@ body {
     font-weight: 400;
 }
 
-/* --- Version Specific Colors --- */
-.version-138 { --version-color: var(--color-138); }
-.version-139 { --version-color: var(--color-139); }
-.version-140 { --version-color: var(--color-140); }
-.version-141 { --version-color: var(--color-141); }
+/* --- Column Order Specific Colors --- */
+.column-1 { --version-color: var(--color-1); }
+.column-2 { --version-color: var(--color-2); }
+.column-3 { --version-color: var(--color-3); }
+.column-4 { --version-color: var(--color-4); }
 
 /* --- Column Body & Sections --- */
 .column-body {
@@ -121,7 +122,8 @@ body {
 #articles-root {
   display: flex;
   flex-direction: row;
-  gap: 24px;
+  flex-wrap: wrap;
+  gap: 50px;
   justify-content: center;
   margin-top: 24px;
 }
@@ -130,4 +132,40 @@ body {
   width: 100%;
   text-align: center;
   margin-bottom: 12px;
+}
+
+@media (max-width: 1100px) {
+  #articles-root {
+    gap: 32px;
+  }
+  .schedule-column {
+    min-width: 220px;
+    max-width: 340px;
+  }
+}
+
+@media (max-width: 800px) {
+  #articles-root {
+    gap: 20px;
+    padding: 0 8px;
+  }
+  .schedule-column {
+    min-width: 180px;
+    max-width: 100%;
+    flex: 1 1 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  #articles-root {
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    padding: 0;
+  }
+  .schedule-column {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
 }
