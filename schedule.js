@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const response = await fetch('schedule.json');
     if (!response.ok) throw new Error('Failed to load schedule.json');
     const data = await response.json();
-    const articles = data.slice(0, 3);
+    const articles = data.slice(0, 4);
     for (const article of articles) {
       root.appendChild(renderArticle(article));
     }
