@@ -1,11 +1,11 @@
 [
   {
-    "version": "138",
-    "branch_date": "Mon, May 26, 2025",
-    "sections": [
+    "title": "Desktop Browser",
+    "versions": [
       {
-        "title": "Desktop Browser",
+        "version": "138",
         "milestones": [
+          {"label": "Branch Date", "value": "Mon, May 26, 2025"},
           {"label": "Migration Start", "value": "Wed, May 28, 2025"},
           {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
           {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
@@ -15,36 +15,9 @@
         ]
       },
       {
-        "title": "Android Browser",
+        "version": "139",
         "milestones": [
-          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
-          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
-          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
-          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Desktop Owner", "owners": ["Paul"]}
-        ]
-      },
-      {
-        "title": "iOS Browser",
-        "milestones": [
-          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
-          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
-          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
-          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Desktop Owner", "owners": ["Roman"]}
-        ]
-      }
-    ]
-  },
-  {
-    "version": "139",
-    "branch_date": "Mon, Jun 23, 2025",
-    "sections": [
-      {
-        "title": "Desktop Browser",
-        "milestones": [
+          {"label": "Branch Date", "value": "Mon, Jun 23, 2025"},
           {"label": "Migration Start", "value": "Wed, May 30, 2025"},
           {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
           {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
@@ -54,36 +27,9 @@
         ]
       },
       {
-        "title": "Android Browser",
+        "version": "140",
         "milestones": [
-          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
-          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
-          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
-          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Desktop Owner", "owners": ["Paul"]}
-        ]
-      },
-      {
-        "title": "iOS Browser",
-        "milestones": [
-          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
-          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
-          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
-          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Desktop Owner", "owners": ["Roman"]}
-        ]
-      }
-    ]
-  },
-  {
-    "version": "140",
-    "branch_date": "Mon, Aug 4, 2025",
-    "sections": [
-      {
-        "title": "Desktop Browser",
-        "milestones": [
+          {"label": "Branch Date", "value": "Mon, Aug 4, 2025"},
           {"label": "Migration Start", "value": "Wed, May 30, 2025"},
           {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
           {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
@@ -93,36 +39,9 @@
         ]
       },
       {
-        "title": "Android Browser",
+        "version": "141",
         "milestones": [
-          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
-          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
-          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
-          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Desktop Owner", "owners": ["Paul"]}
-        ]
-      },
-      {
-        "title": "iOS Browser",
-        "milestones": [
-          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
-          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
-          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
-          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Desktop Owner", "owners": ["Roman"]}
-        ]
-      }
-    ]
-  },
-  {
-    "version": "141",
-    "branch_date": "Mon, Sep 1, 2025",
-    "sections": [
-      {
-        "title": "Desktop Browser",
-        "milestones": [
+          {"label": "Branch Date", "value": "Mon, Sep 1, 2025"},
           {"label": "Migration Start", "value": "Wed, May 30, 2025"},
           {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
           {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
@@ -130,27 +49,111 @@
           {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
           {"label": "Desktop Owner", "owners": ["Christophe"]}
         ]
-      },
+      }
+    ]
+  },
+  {
+    "title": "Android Browser",
+    "versions": [
       {
-        "title": "Android Browser",
+        "version": "138",
         "milestones": [
+          {"label": "Branch Date", "value": "Mon, May 26, 2025"},
           {"label": "Migration Start", "value": "Wed, May 30, 2025"},
           {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
           {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
           {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
           {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Desktop Owner", "owners": ["Paul"]}
+          {"label": "Android Owner", "owners": ["Paul"]}
         ]
       },
       {
-        "title": "iOS Browser",
+        "version": "139",
         "milestones": [
+          {"label": "Branch Date", "value": "Mon, Jun 23, 2025"},
           {"label": "Migration Start", "value": "Wed, May 30, 2025"},
           {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
           {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
           {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
           {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
-          {"label": "Desktop Owner", "owners": ["Roman"]}
+          {"label": "Android Owner", "owners": ["Paul"]}
+        ]
+      },
+      {
+        "version": "140",
+        "milestones": [
+          {"label": "Branch Date", "value": "Mon, Aug 4, 2025"},
+          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
+          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
+          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
+          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "Android Owner", "owners": ["Paul"]}
+        ]
+      },
+      {
+        "version": "141",
+        "milestones": [
+          {"label": "Branch Date", "value": "Mon, Sep 1, 2025"},
+          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
+          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
+          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
+          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "Android Owner", "owners": ["Paul"]}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "iOS Browser",
+    "versions": [
+      {
+        "version": "138",
+        "milestones": [
+          {"label": "Branch Date", "value": "Mon, May 26, 2025"},
+          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
+          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
+          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
+          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "iOS Owner", "owners": ["Roman"]}
+        ]
+      },
+      {
+        "version": "139",
+        "milestones": [
+          {"label": "Branch Date", "value": "Mon, Jun 23, 2025"},
+          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
+          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
+          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
+          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "iOS Owner", "owners": ["Roman"]}
+        ]
+      },
+      {
+        "version": "140",
+        "milestones": [
+          {"label": "Branch Date", "value": "Mon, Aug 4, 2025"},
+          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
+          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
+          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
+          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "iOS Owner", "owners": ["Roman"]}
+        ]
+      },
+      {
+        "version": "141",
+        "milestones": [
+          {"label": "Branch Date", "value": "Mon, Sep 1, 2025"},
+          {"label": "Migration Start", "value": "Wed, May 30, 2025"},
+          {"label": "Feature Freeze", "value": "Tue, Jun 17, 2025"},
+          {"label": "Pre Release phase", "value": "Wed, Jun 18, 2025"},
+          {"label": "Release Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "Final Candidate", "value": "Tue, Jun 24, 2025"},
+          {"label": "iOS Owner", "owners": ["Roman"]}
         ]
       }
     ]

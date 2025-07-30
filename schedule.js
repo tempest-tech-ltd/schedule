@@ -4,16 +4,16 @@ document.addEventListener('DOMContentLoaded', async () => {
     const response = await fetch('schedule.json');
     if (!response.ok) throw new Error('Failed to load schedule.json');
     const data = await response.json();
-    const articles = data.slice(0, 4);
-    articles.forEach((article, idx) => {
-      root.appendChild(renderArticle(article, idx));
+    const projects = data.slice(0, 3); // Show first 3 projects
+    projects.forEach((project, idx) => {
+      root.appendChild(renderProject(project, idx));
     });
   } catch (e) {
     root.innerHTML = '<p style="color:red">Failed to load schedule data.</p>';
   }
 });
 
-function renderArticle(article, idx) {
+function renderProject(project, idx) {
   const art = document.createElement('article');
   art.className = `schedule-column column-${idx + 1}`;
 
@@ -21,32 +21,37 @@ function renderArticle(article, idx) {
   const header = document.createElement('header');
   header.className = 'column-header';
   header.innerHTML = `
-    <span class="version-number">${article.version}</span>
-    <span class="branch-date">${article.branch_date}</span>
+    <span class="project-title">${project.title}</span>
   `;
   art.appendChild(header);
 
   // Body
   const body = document.createElement('div');
   body.className = 'column-body';
-  for (const section of article.sections) {
-    body.appendChild(renderSection(section));
+  
+  // Render versions for this project
+  for (const version of project.versions) {
+    body.appendChild(renderVersion(version));
   }
+  
   art.appendChild(body);
   return art;
 }
 
-function renderSection(section) {
+function renderVersion(version) {
   const sec = document.createElement('section');
-  sec.className = 'milestone-section';
+  sec.className = 'version-section';
+  
   const title = document.createElement('h2');
-  title.className = 'section-title';
-  title.textContent = section.title;
+  title.className = 'version-title';
+  title.innerHTML = `
+    <span class="version-number">${version.version}</span>
+  `;
   sec.appendChild(title);
 
   const list = document.createElement('div');
   list.className = 'milestone-list';
-  for (const ms of section.milestones) {
+  for (const ms of version.milestones) {
     list.appendChild(renderMilestone(ms));
   }
   sec.appendChild(list);
