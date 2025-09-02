@@ -110,31 +110,40 @@
           {"label": "[FF] Planned Branch", "value": "Tue, July 22, 2025"},
           {"label": "[FF] Real Branch", "value": "Tue, Aug 5, 2025"},
           {"label": "[IB] Migration & Stabilization", "value": "Tue, Aug 5, 2025"},
-          {"label": "[IB] Planned Feature Freeze", "value": "Thu, Aug 14, 2025"},
-          {"label": "[IB] Real Feature Freeze", "value": ""},
-          {"label": "[IB] Migration+Release Candidate", "value": "Mon, Aug 18, 2025"},
+          {"label": "[IB] Feature Freeze", "value": "Thu, Aug 14, 2025"},
           {"label": "[FF] Firefox Release", "value": "Tue, Aug 19, 2025"},
+          {"label": "[IB] Migration + Release Candidate", "value": "Mon, Aug 25, 2025"},
           {"label": "[IB] Final Candidate", "value": "Wed, Sep 3, 2025"},
           {"label": "iOS Owner", "owners": ["Roman, Anton"]}
         ]
       },
       {
-        "version": "143 (planned)",
+        "version": "143",
         "milestones": [
-          {"label": "[FF] Planned Branch", "value": "Tue, Aug 19, 2025"},
-          {"label": "[FF] Real Branch", "value": ""},
-          {"label": "[IB] Migration & Stabilization", "value": ""},
-          {"label": "[IB] Planned Feature Freeze", "value": ""},
-          {"label": "[IB] Real Feature Freeze", "value": ""},
-          {"label": "[IB] Migration+Release Candidate", "value": ""},
-          {"label": "[FF] Firefox Release", "value": ""},
-          {"label": "[IB] Final Candidate", "value": ""},
-          {"label": "iOS Owner", "owners": ["Anton"]}
+          {"label": "Migration & Stabilization", "value": "Tue, Aug 26, 2025"},
+          {"label": "Feature Freeze", "value": "Tue, 2 Sep, 2025"},
+          {"label": "Migration Candidate", "value": "Mon, Sep 8, 2025"},
+          {"label": "Release Candidate", "value": "Mon, Sep 15, 2025"},
+          {"label": "[FF] Firefox Release", "value": "Wed, Sep 17, 2025"},
+          {"label": "Final Candidate", "value": "Wed, Sep 17, 2025"},
+          {"label": "iOS Owner", "owners": ["Roman, Anton"]}
+        ]
+      },
+      {
+        "version": "144",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Sep 17, 2025"},
+          {"label": "Feature Freeze", "value": "Tue, 30 Sep, 2025"},
+          {"label": "Migration Candidate", "value": "Wed, Oct 1, 2025"},
+          {"label": "Release Candidate", "value": "Mon, Oct 13, 2025"},
+          {"label": "[FF] Firefox Release", "value": "Wed, Oct 15, 2025"},
+          {"label": "Final Candidate", "value": "Wed, Oct 15, 2025"},
+          {"label": "iOS Owner", "owners": ["Roman, Anton"]}
         ]
       }
     ]
   }
-
 ]
+
 
 
