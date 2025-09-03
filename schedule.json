@@ -3,17 +3,6 @@
     "title": "Desktop Browser",
     "versions": [
       {
-        "version": "139",
-        "milestones": [
-          {"label": "Migration & Stabilization", "value": "Wed, June 26, 2025"},
-          {"label": "Feature Freeze", "value": "Thu, Jul 10, 2025"},
-          {"label": "Pre Release phase", "value": "Mon, Jul 14, 2025"},
-          {"label": "Release Candidate", "value": "Mon, Aug 4, 2025"},
-          {"label": "Final Candidate", "value": "Wed, Aug 6, 2025"},
-          {"label": "Desktop Owner", "owners": ["Clement"]}
-        ]
-      },
-      {
         "version": "140",
         "milestones": [
           {"label": "Migration & Stabilization", "value": "Wed, Aug 6, 2025"},
@@ -144,6 +133,7 @@
     ]
   }
 ]
+
 
 
 
