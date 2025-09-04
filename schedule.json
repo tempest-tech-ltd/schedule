@@ -59,8 +59,8 @@
           {"label": "Migration Start", "value": "Wed, Aug 13, 2025"},
           {"label": "Feature Freeze", "value": "Thu, Aug 21, 2025"},
           {"label": "Pre Release phase", "value": "Mon, Aug 25, 2025"},
-          {"label": "Release Candidate", "value": "Mon, Sep 8, 2025"},
-          {"label": "Final Candidate", "value": "Wed, Sep 10, 2025"},
+          {"label": "Release Candidate", "value": "Mon, Sep 15, 2025"},
+          {"label": "Final Candidate", "value": "Wed, Sep 17, 2025"},
           {"label": "Android Owner", "owners": ["Siarhei"]}
         ]
       },
@@ -133,6 +133,7 @@
     ]
   }
 ]
+
 
 
 
