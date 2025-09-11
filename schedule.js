@@ -13,6 +13,17 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 });
 
+function toDateOnly(dateString) {
+  // Returns a Date at local midnight for date-only comparisons
+  const [year, month, day] = dateString.split('-').map(Number);
+  return new Date(year, month - 1, day);
+}
+
+function getTodayDateOnly() {
+  const now = new Date();
+  return new Date(now.getFullYear(), now.getMonth(), now.getDate());
+}
+
 function renderProject(project, idx) {
   const art = document.createElement('article');
   art.className = `schedule-column column-${idx + 1}`;
@@ -51,17 +62,40 @@ function renderVersion(version) {
 
   const list = document.createElement('div');
   list.className = 'milestone-list';
-  for (const ms of version.milestones) {
-    list.appendChild(renderMilestone(ms));
+  // Determine current milestone based on today's date and milestone ranges defined by date_start to next date_start
+  const today = getTodayDateOnly();
+  let currentIndex = null;
+  const starts = version.milestones
+    .map((ms, i) => ({ index: i, start: ms.date_start ? toDateOnly(ms.date_start) : null }))
+    .filter(x => !!x.start)
+    .sort((a, b) => a.start - b.start);
+
+  for (let i = 0; i < starts.length; i++) {
+    const cur = starts[i];
+    const next = starts[i + 1];
+    const inRange = next
+      ? (cur.start <= today && today < next.start)
+      : (cur.start <= today ? true : false); // last item inclusive start, no explicit end
+    if (inRange) {
+      currentIndex = cur.index;
+      break;
+    }
+  }
+
+  for (let i = 0; i < version.milestones.length; i++) {
+    const ms = version.milestones[i];
+    const isCurrent = currentIndex === i;
+    list.appendChild(renderMilestone(ms, isCurrent));
   }
   sec.appendChild(list);
   return sec;
 }
 
-function renderMilestone(ms) {
+function renderMilestone(ms, isCurrent) {
   const row = document.createElement('div');
   row.className = 'milestone-row';
   if (ms.subtext) row.classList.add('with-subtext');
+  if (isCurrent) row.classList.add('current');
 
   // Label and value/owners/icon
   const labelSpan = document.createElement('span');
