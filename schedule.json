@@ -86,7 +86,7 @@
           {"label": "Pre Release phase", "value": "Mon, Oct 20, 2025", "date_start": "2025-10-20"},
           {"label": "Release Candidate", "value": "Mon, Nov 3, 2025", "date_start": "2025-11-03"},
           {"label": "Final Candidate", "value": "Wed, Nov 5, 2025", "date_start": "2025-11-05"},
-          {"label": "Android Owner", "owners": ["Diego"]}
+          {"label": "Android Owner", "owners": ["Siarhei"]}
         ]
       }
     ]
