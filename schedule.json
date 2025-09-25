@@ -117,7 +117,7 @@
           {"label": "Release Candidate", "value": "Mon, Sep 15, 2025", "date_start": "2025-09-15"},
           {"label": "[FF] Firefox Release", "value": "Wed, Sep 17, 2025", "date_start": "2025-09-17"},
           {"label": "Final Candidate", "value": "Wed, Sep 17, 2025", "date_start": "2025-09-17"},
-          {"label": "[IB] Minor support", "value": "Wed, Oct 15, 2025", "date_start": "2025-10-15"},
+          {"label": "[IB] Minor support", "value": "Wed, Sep 18, 2025", "date_start": "2025-09-18"},
           {"label": "iOS Owner", "owners": ["Roman, Anton"]}
         ]
       },
