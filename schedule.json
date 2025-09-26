@@ -88,6 +88,18 @@
           {"label": "Final Candidate", "value": "Wed, Nov 5, 2025", "date_start": "2025-11-05"},
           {"label": "Android Owner", "owners": ["Siarhei"]}
         ]
+      },
+      {
+        "version": "143",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Oct 29, 2025", "date_start": "2025-10-29"},
+          {"label": "Migration Start", "value": "Wed, Nov 5, 2025", "date_start": "2025-11-05"},
+          {"label": "Feature Freeze", "value": "Thu, Nov 20, 2025", "date_start": "2025-11-20"},
+          {"label": "Pre Release phase", "value": "Mon, Nov 24, 2025", "date_start": "2025-11-24"},
+          {"label": "Release Candidate", "value": "Mon, Dec 8, 2025", "date_start": "2025-12-08"},
+          {"label": "Final Candidate", "value": "Wed, Dec 10, 2025", "date_start": "2025-12-10"},
+          {"label": "Android Owner", "owners": ["Diego"]}
+        ]
       }
     ]
   },
