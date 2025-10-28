@@ -117,7 +117,19 @@
           {"label": "Final Candidate", "value": "Wed, Oct 15, 2025", "date_start": "2025-10-15"},
           {"label": "iOS Owner", "owners": ["Roman, Anton"]}
         ]
-      }
+      },
+      {
+        "version": "145 (in progress)",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Oct 15, 2025", "date_start": "2025-10-15"},
+          {"label": "Feature Freeze", "value": "Thu, 30 Oct, 2025", "date_start": "2025-10-30"},
+          {"label": "Migration Candidate", "value": "Fri, Sep 31, 2025", "date_start": "2025-10-31"},
+          {"label": "Release Candidate", "value": "Mon, Nov 10, 2025", "date_start": "2025-11-10"},
+          {"label": "[FF] Firefox Release", "value": "Wed, Nov 12, 2025", "date_start": "2025-11-12"},
+          {"label": "Final Candidate", "value": "Wed, Nov 12, 2025", "date_start": "2025-11-12"},
+          {"label": "iOS Owner", "owners": ["Roman, Anton"]}
+        ]
+      }      
     ]
   }
 ]
