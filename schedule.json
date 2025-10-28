@@ -107,34 +107,7 @@
     "title": "iOS Browser",
     "versions": [
       {
-        "version": "142 (released)",
-        "milestones": [
-          {"label": "[FF] Planned Branch", "value": "Tue, July 22, 2025", "date_start": "2025-07-22"},
-          {"label": "[FF] Real Branch", "value": "Tue, Aug 5, 2025", "date_start": "2025-08-05"},
-          {"label": "[IB] Migration & Stabilization", "value": "Tue, Aug 5, 2025", "date_start": "2025-08-05"},
-          {"label": "[IB] Feature Freeze", "value": "Thu, Aug 14, 2025", "date_start": "2025-08-14"},
-          {"label": "[FF] Firefox Release", "value": "Tue, Aug 19, 2025", "date_start": "2025-08-19"},
-          {"label": "[IB] Migration + Release Candidate", "value": "Mon, Aug 25, 2025", "date_start": "2025-08-25"},
-          {"label": "[IB] Final Candidate", "value": "Wed, Sep 3, 2025", "date_start": "2025-09-03"},
-          {"label": "[IB] Minor support", "value": "Thu, Sep 4, 2025", "date_start": "2025-09-04"},
-          {"label": "iOS Owner", "owners": ["Roman, Anton"]}
-        ]
-      },
-      {
-        "version": "143 (waiting for release)",
-        "milestones": [
-          {"label": "Migration & Stabilization", "value": "Tue, Aug 26, 2025", "date_start": "2025-08-26"},
-          {"label": "Feature Freeze", "value": "Tue, 2 Sep, 2025", "date_start": "2025-09-02"},
-          {"label": "Migration Candidate", "value": "Mon, Sep 8, 2025", "date_start": "2025-09-08"},
-          {"label": "Release Candidate", "value": "Mon, Sep 15, 2025", "date_start": "2025-09-15"},
-          {"label": "[FF] Firefox Release", "value": "Wed, Sep 17, 2025", "date_start": "2025-09-17"},
-          {"label": "Final Candidate", "value": "Wed, Sep 17, 2025", "date_start": "2025-09-17"},
-          {"label": "[IB] Minor support", "value": "Wed, Sep 18, 2025", "date_start": "2025-09-18"},
-          {"label": "iOS Owner", "owners": ["Roman, Anton"]}
-        ]
-      },
-      {
-        "version": "144 (in progress)",
+        "version": "144 (ready to deploy)",
         "milestones": [
           {"label": "Migration & Stabilization", "value": "Wed, Sep 17, 2025", "date_start": "2025-09-17"},
           {"label": "Feature Freeze", "value": "Tue, 30 Sep, 2025", "date_start": "2025-09-30"},
