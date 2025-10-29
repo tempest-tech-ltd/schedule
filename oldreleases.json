@@ -41,6 +41,30 @@
   {
     "title": "Android Browser",
     "versions": [
+      {
+        "version": "140 (in progress)",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Aug 6, 2025", "date_start": "2025-08-06"},
+          {"label": "Migration Start", "value": "Wed, Aug 13, 2025", "date_start": "2025-08-13"},
+          {"label": "Feature Freeze", "value": "Thu, Aug 21, 2025", "date_start": "2025-08-21"},
+          {"label": "Pre Release phase", "value": "Mon, Aug 25, 2025", "date_start": "2025-08-25"},
+          {"label": "Release Candidate", "value": "Mon, Sep 15, 2025", "date_start": "2025-09-15"},
+          {"label": "Final Candidate", "value": "Wed, Sep 17, 2025", "date_start": "2025-09-17"},
+          {"label": "Android Owner", "owners": ["Siarhei"]}
+        ]
+      },
+      {
+        "version": "141 (in progress)",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Sep 3, 2025", "date_start": "2025-09-03"},
+          {"label": "Migration Start", "value": "Wed, Sep 10, 2025", "date_start": "2025-09-10"},
+          {"label": "Feature Freeze", "value": "Thu, Sep 18, 2025", "date_start": "2025-09-18"},
+          {"label": "Pre Release phase", "value": "Mon, Sep 22, 2025", "date_start": "2025-09-22"},
+          {"label": "Release Candidate", "value": "Mon, Oct 6, 2025", "date_start": "2025-10-06"},
+          {"label": "Final Candidate", "value": "Wed, Oct 8, 2025", "date_start": "2025-10-08"},
+          {"label": "Android Owner", "owners": ["Paul"]}
+        ]
+      }
     ]
   },
   {
