@@ -96,7 +96,18 @@
           {"label": "[IB] Minor support", "value": "Wed, Sep 18, 2025", "date_start": "2025-09-18"},
           {"label": "iOS Owner", "owners": ["Roman, Anton"]}
         ]
-      }
+      },
+      {
+        "version": "144 (ready to deploy)",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Sep 17, 2025", "date_start": "2025-09-17"},
+          {"label": "Feature Freeze", "value": "Tue, Sep 30, 2025", "date_start": "2025-09-30"},
+          {"label": "Migration Candidate", "value": "Tue, Sep 30, 2025", "date_start": "2025-09-30"},
+          {"label": "Release Candidate", "value": "Mon, Oct 13, 2025", "date_start": "2025-10-13"},
+          {"label": "[FF] Firefox Release", "value": "Wed, Oct 15, 2025", "date_start": "2025-10-15"},
+          {"label": "Final Candidate", "value": "Wed, Oct 15, 2025", "date_start": "2025-10-15"}
+        ]
+      }      
     ]
   }
 ]
