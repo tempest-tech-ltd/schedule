@@ -52,7 +52,7 @@
           ]
         },
         {
-          "version": "146 (to skip?)",
+          "version": "146 (internal release only)",
           "milestones": [
             {"label": "Migration & Stabilization", "value": "Thu, Nov 13, 2025", "start": "2025-11-13", "end": "2025-11-25"},
             {"label": "Feature Freeze", "value": "Tue, Nov 25, 2025", "start": "2025-11-25", "end": "2025-11-25"},
@@ -76,4 +76,5 @@
       ]
     }
   ]
+
   
