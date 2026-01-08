@@ -64,9 +64,36 @@
           {"label": "Minor Support", "value": "till Feb 17, 2026", "start": "2026-01-22", "end": "2026-02-17"},
           {"label": "Android Owner", "owners": ["Paul"]}
         ]
+      },
+      {
+        "version": "145",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Jan 14, 2026", "start": "2026-01-14", "end": "2026-01-14"},
+          {"label": "Migration Start", "value": "Wed, Jan 21, 2026", "start": "2026-01-21", "end": "2026-01-29"},
+          {"label": "Feature Freeze", "value": "Thu, Jan 29, 2026", "start": "2026-01-29", "end": "2026-01-29"},
+          {"label": "Pre-Release phase", "value": "Fri, Jan 30, 2026", "start": "2026-01-30", "end": "2026-02-15"},
+          {"label": "Release Candidate", "value": "Mon, Feb 16, 2026", "start": "2026-02-16", "end": "2026-02-17"},
+          {"label": "Final Candidate", "value": "Wed, Feb 18, 2026", "start": "2026-02-18", "end": "2026-02-19"},
+          {"label": "Minor Support", "value": "till Mar 24, 2026", "start": "2026-02-20", "end": "2026-03-24"},
+          {"label": "Android Owner", "owners": ["Siarhei"]}
+        ]
+      },
+      {
+        "version": "146",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Feb 11, 2026", "start": "2026-02-11", "end": "2026-02-11"},
+          {"label": "Migration Start", "value": "Wed, Feb 18, 2026", "start": "2026-02-18", "end": "2026-02-26"},
+          {"label": "Feature Freeze", "value": "Thu, Feb 26, 2026", "start": "2026-02-26", "end": "2026-02-26"},
+          {"label": "Pre-Release phase", "value": "Fri, Feb 27, 2026", "start": "2026-02-27", "end": "2026-03-15"},
+          {"label": "Release Candidate", "value": "Mon, Mar 16, 2026", "start": "2026-03-16", "end": "2026-03-17"},
+          {"label": "Final Candidate", "value": "Wed, Mar 18, 2026", "start": "2026-03-18", "end": "2026-03-19"},
+          {"label": "Minor Support", "value": "till Apr 21, 2026", "start": "2026-03-20", "end": "2026-04-21"},
+          {"label": "Android Owner", "owners": ["Diego"]}
+        ]
       }
     ]
   }
 ]
+
 
 
