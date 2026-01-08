@@ -108,7 +108,7 @@
           {"label": "Minor Support", "value": "till May 5, 2026", "start": "2026-04-09", "end": "2026-05-05"},
           {"label": "Desktop Owner", "owners": ["?"]}
         ]
-      },
+      }
     ]
   }
 ]
