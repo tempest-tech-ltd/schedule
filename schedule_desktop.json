@@ -70,9 +70,45 @@
           {"label": "Release Candidate", "value": "Mon, Jan 12, 2026", "start": "2026-01-12", "end": "2026-01-13"},
           {"label": "Final Candidate", "value": "Wed, Jan 14, 2026", "start": "2026-01-14", "end": "2026-01-15"},
           {"label": "Minor Support", "value": "till Feb 10, 2026", "start": "2026-01-15", "end": "2026-02-10"},
+          {"label": "Desktop Owner", "owners": ["Michael"]}
+        ]
+      },
+      {
+        "version": "145",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Jan 14 2026", "start": "2026-01-14", "end": "2026-01-22"},
+          {"label": "Feature Freeze", "value": "Thu, Jan 22, 2026", "start": "2026-01-22", "end": "2026-01-22"},
+          {"label": "Pre-Release phase", "value": "Fri, Jan 23, 2026", "start": "2026-01-23", "end": "2026-02-08"},
+          {"label": "Release Candidate", "value": "Mon, Feb 9, 2026", "start": "2026-02-09", "end": "2026-02-10"},
+          {"label": "Final Candidate", "value": "Wed, Feb 11, 2026", "start": "2026-02-11", "end": "2026-02-12"},
+          {"label": "Minor Support", "value": "till Mar 9, 2026", "start": "2026-02-12", "end": "2026-03-09"},
+          {"label": "Desktop Owner", "owners": ["Michael"]}
+        ]
+      },
+      {
+        "version": "146",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Feb 11, 2026", "start": "2026-02-11", "end": "2026-02-19"},
+          {"label": "Feature Freeze", "value": "Thu, Feb 19, 2026", "start": "2026-02-19", "end": "2026-02-19"},
+          {"label": "Pre-Release phase", "value": "Fri, Feb 20, 2026", "start": "2026-02-20", "end": "2026-03-08"},
+          {"label": "Release Candidate", "value": "Mon, Mar 9, 2026", "start": "2026-03-09", "end": "2026-03-10"},
+          {"label": "Final Candidate", "value": "Wed, Mar 11, 2026", "start": "2026-03-11", "end": "2026-03-12"},
+          {"label": "Minor Support", "value": "till Apr 7, 2026", "start": "2026-03-12", "end": "2026-04-07"},
           {"label": "Desktop Owner", "owners": ["?"]}
         ]
-      }
+      },
+      {
+        "version": "147",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Mar 11, 2026", "start": "2026-03-11", "end": "2026-03-19"},
+          {"label": "Feature Freeze", "value": "Thu, Mar 19, 2026", "start": "2026-03-19", "end": "2026-03-19"},
+          {"label": "Pre-Release phase", "value": "Fri, Mar 20, 2026", "start": "2026-03-20", "end": "2026-04-05"},
+          {"label": "Release Candidate", "value": "Mon, Apr 6, 2026", "start": "2026-04-06", "end": "2026-04-07"},
+          {"label": "Final Candidate", "value": "Wed, Apr 8, 2026", "start": "2026-04-08", "end": "2026-04-09"},
+          {"label": "Minor Support", "value": "till May 5, 2026", "start": "2026-04-09", "end": "2026-05-05"},
+          {"label": "Desktop Owner", "owners": ["?"]}
+        ]
+      },
     ]
   }
 ]
