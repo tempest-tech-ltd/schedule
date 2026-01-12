@@ -58,7 +58,7 @@
           {"label": "Chromium Beta Promotion", "value": "Wed, Dec 3, 2025", "start": "2025-12-03", "end": "2025-12-03"},
           {"label": "Migration Start", "value": "Wed, Dec 10, 2025", "start": "2025-12-10", "end": "2025-12-25"},
           {"label": "Feature Freeze", "value": "Thu, Dec 25, 2025", "start": "2025-12-25", "end": "2025-12-25"},
-          {"label": "Pre-Release phase", "value": "Fri, Dec 26, 2025", "start": "2025-12-26", "end": "2026-01-11"},
+          {"label": "Pre-Release phase", "value": "Fri, Dec 26, 2025", "start": "2025-12-26", "end": "2026-01-18"},
           {"label": "Release Candidate", "value": "Mon, Jan 19, 2026", "start": "2026-01-19", "end": "2026-01-20"},
           {"label": "Final Candidate", "value": "Wed, Jan 21, 2026", "start": "2026-01-21", "end": "2026-01-21"},
           {"label": "Minor Support", "value": "till Feb 17, 2026", "start": "2026-01-22", "end": "2026-02-17"},
@@ -73,8 +73,8 @@
           {"label": "Feature Freeze", "value": "Thu, Jan 29, 2026", "start": "2026-01-29", "end": "2026-01-29"},
           {"label": "Pre-Release phase", "value": "Fri, Jan 30, 2026", "start": "2026-01-30", "end": "2026-02-15"},
           {"label": "Release Candidate", "value": "Mon, Feb 16, 2026", "start": "2026-02-16", "end": "2026-02-17"},
-          {"label": "Final Candidate", "value": "Wed, Feb 18, 2026", "start": "2026-02-18", "end": "2026-02-19"},
-          {"label": "Minor Support", "value": "till Mar 17, 2026", "start": "2026-02-20", "end": "2026-03-17"},
+          {"label": "Final Candidate", "value": "Wed, Feb 18, 2026", "start": "2026-02-18", "end": "2026-02-18"},
+          {"label": "Minor Support", "value": "till Mar 17, 2026", "start": "2026-02-19", "end": "2026-03-17"},
           {"label": "Android Owner", "owners": ["Siarhei"]}
         ]
       },
@@ -86,14 +86,15 @@
           {"label": "Feature Freeze", "value": "Thu, Feb 26, 2026", "start": "2026-02-26", "end": "2026-02-26"},
           {"label": "Pre-Release phase", "value": "Fri, Feb 27, 2026", "start": "2026-02-27", "end": "2026-03-15"},
           {"label": "Release Candidate", "value": "Mon, Mar 16, 2026", "start": "2026-03-16", "end": "2026-03-17"},
-          {"label": "Final Candidate", "value": "Wed, Mar 18, 2026", "start": "2026-03-18", "end": "2026-03-19"},
-          {"label": "Minor Support", "value": "till Apr 14, 2026", "start": "2026-03-20", "end": "2026-04-14"},
+          {"label": "Final Candidate", "value": "Wed, Mar 18, 2026", "start": "2026-03-18", "end": "2026-03-18"},
+          {"label": "Minor Support", "value": "till Apr 14, 2026", "start": "2026-03-19", "end": "2026-04-14"},
           {"label": "Android Owner", "owners": ["Diego"]}
         ]
       }
     ]
   }
 ]
+
 
 
 
