@@ -1,94 +1,106 @@
 [
     {
-      "title": "iOS Browser",
-      "versions": [
-        {
-            "version": "142",
-            "milestones": [
-              {"label": "[FF] Planned Branch", "value": "Tue, July 22, 2025", "start": "2025-07-22", "end": "2025-07-22"},
-              {"label": "[FF] Real Branch", "value": "Tue, Aug 5, 2025", "start": "2025-08-05", "end": "2025-08-05"},
-              {"label": "[IB] Migration & Stabilization", "value": "Tue, Aug 5, 2025", "start": "2025-08-05", "end": "2025-08-14"},
-              {"label": "[IB] Feature Freeze", "value": "Thu, Aug 14, 2025", "start": "2025-08-14", "end": "2025-08-14"},
-              {"label": "[FF] Firefox Release", "value": "Tue, Aug 19, 2025", "start": "2025-08-19", "end": "2025-08-19"},
-              {"label": "[IB] Migration + Release Candidate", "value": "Mon, Aug 25, 2025", "start": "2025-08-25", "end": "2025-09-02"},
-              {"label": "[IB] Final Candidate", "value": "Wed, Sep 3, 2025", "start": "2025-09-03", "end": "2025-09-04"},
-              {"label": "[IB] Minor support", "value": "Thu, Sep 4, 2025", "start": "2025-09-04", "end": "2025-09-16"},
-              {"label": "iOS Owner", "owners": ["Roman, Anton"]}
-            ]
-          },
-          {
-            "version": "143",
-            "milestones": [
-              {"label": "Migration & Stabilization", "value": "Tue, Aug 26, 2025", "start": "2025-08-26", "end": "2025-09-02"},
-              {"label": "Feature Freeze", "value": "Tue, 2 Sep, 2025", "start": "2025-09-02", "end": "2025-09-02"},
-              {"label": "Migration Candidate", "value": "Mon, Sep 8, 2025", "start": "2025-09-08", "end": "2025-09-14"},
-              {"label": "Release Candidate", "value": "Mon, Sep 15, 2025", "start": "2025-09-15", "end": "2025-09-16"},
-              {"label": "[FF] Firefox Release", "value": "Wed, Sep 17, 2025", "start": "2025-09-17", "end": "2025-09-17"},
-              {"label": "Final Candidate", "value": "Wed, Sep 17, 2025", "start": "2025-09-17", "end": "2025-09-18"},
-              {"label": "[IB] Minor support", "value": "Wed, Sep 18, 2025", "start": "2025-09-19", "end": "2025-10-14"},
-              {"label": "iOS Owner", "owners": ["Roman, Anton"]}
-            ]
-          },
-          {
-            "version": "144",
-            "milestones": [
-              {"label": "Migration & Stabilization", "value": "Wed, Sep 17, 2025", "start": "2025-09-17", "end": "2025-09-30"},
-              {"label": "Feature Freeze", "value": "Tue, Sep 30, 2025", "start": "2025-09-30", "end": "2025-09-30"},
-              {"label": "Migration Candidate", "value": "Tue, Sep 30, 2025", "start": "2025-09-30", "end": "2025-10-12"},
-              {"label": "Release Candidate", "value": "Mon, Oct 13, 2025", "start": "2025-10-13", "end": "2025-10-14"},
-              {"label": "[FF] Firefox Release", "value": "Wed, Oct 15, 2025", "start": "2025-10-15", "end": "2025-10-15"},
-              {"label": "Final Candidate", "value": "Wed, Oct 15, 2025", "start": "2025-10-15", "end": "2025-10-20"}
-            ]
-          },
-          {
-          "version": "145",
-          "milestones": [
-            {"label": "Migration & Stabilization", "value": "Wed, Oct 15, 2025", "start": "2025-10-15", "end": "2025-10-30"},
-            {"label": "Feature Freeze", "value": "Thu, Oct 30, 2025", "start": "2025-10-30", "end": "2025-10-30"},
-            {"label": "Migration Candidate", "value": "Fri, Oct 31, 2025", "start": "2025-10-31", "end": "2025-11-09"},
-            {"label": "Release Candidate", "value": "Mon, Nov 10, 2025", "start": "2025-11-10", "end": "2025-11-11"},
-            {"label": "[FF] Firefox Release", "value": "Wed, Nov 12, 2025", "start": "2025-11-12", "end": "2025-11-12"},
-            {"label": "Final Candidate", "value": "Wed, Nov 12, 2025", "start": "2025-11-12", "end": "2025-11-15"}
-          ]
-        },
-        {
-          "version": "146 (internal release only)",
-          "milestones": [
-            {"label": "Migration & Stabilization", "value": "Thu, Nov 13, 2025", "start": "2025-11-13", "end": "2025-11-25"},
-            {"label": "Feature Freeze", "value": "Tue, Nov 25, 2025", "start": "2025-11-25", "end": "2025-11-25"},
-            {"label": "Migration Candidate", "value": "Wed, Nov 26, 2025", "start": "2025-11-26", "end": "2025-12-07"},
-            {"label": "Release Candidate", "value": "Mon, Dec 8, 2025", "start": "2025-12-08", "end": "2025-12-09"},
-            {"label": "[FF] Firefox Release", "value": "Wed, Dec 10, 2025", "start": "2025-12-10", "end": "2025-12-10"},
-            {"label": "Final Candidate", "value": "Wed, Dec 10, 2025", "start": "2025-12-10", "end": "2025-12-15"}
-          ]
-        },  
-        {
-          "version": "147",
-          "milestones": [
-            {"label": "Migration & Stabilization", "value": "Wed, Dec 10, 2025", "start": "2025-12-10", "end": "2025-12-17"},
-            {"label": "Feature Freeze", "value": "Thu, Dec 18, 2025", "start": "2025-12-18", "end": "2025-12-18"},
-            {"label": "Migration Candidate", "value": "Fri, Dec 19, 2025", "start": "2025-12-19", "end": "2026-01-13"},
-            {"label": "[FF] Firefox Release", "value": "Mon, Jan 12, 2026", "start": "2026-01-12", "end": "2026-01-12"},
-            {"label": "Release Candidate", "value": "Wed, Jan 14, 2026", "start": "2026-01-14", "end": "2026-01-14"},
-            {"label": "Final Candidate", "value": "Mon, Jan 19, 2026", "start": "2026-01-19", "end": "2026-01-19"},
-            {"label": "iOS Owner", "owners": ["Roman, Anton"]}
-          ]
-        },
-        {
-          "version": "148",
-          "milestones": [
-            {"label": "Migration & Stabilization", "value": "Wed, Jan 14, 2026", "start": "2026-01-14", "end": "2026-02-09"},
-            {"label": "Feature Freeze", "value": "Tue, Feb 10, 2026", "start": "2026-02-10", "end": "2026-02-10"},
-            {"label": "Migration Candidate", "value": "Wed, Feb 11, 2026", "start": "2026-02-11", "end": "2026-02-11"},
-            {"label": "Release Candidate", "value": "Mon, Feb 23, 2026", "start": "2026-02-23", "end": "2026-02-23"},
-            {"label": "[FF] Firefox Release", "value": "Wed, Feb 23, 2026", "start": "2026-02-23", "end": "2026-02-23"},
-            {"label": "Final Candidate", "value": "Wed, Feb 25, 2026", "start": "2026-02-25", "end": "2026-02-25"},
-            {"label": "iOS Owner", "owners": ["Roman, Anton"]}
-          ]
-        }
-      ]
+        "title": "iOS Browser",
+        "versions": [
+            {
+                "version": "142",
+                "milestones": [
+                    {"label": "[FF] Planned Branch", "value": "Tue, July 22, 2025", "start": "2025-07-22", "end": "2025-07-22"},
+                    {"label": "[FF] Real Branch", "value": "Tue, Aug 5, 2025", "start": "2025-08-05", "end": "2025-08-05"},
+                    {"label": "[IB] Migration & Stabilization", "value": "Tue, Aug 5, 2025", "start": "2025-08-05", "end": "2025-08-14"},
+                    {"label": "[IB] Feature Freeze", "value": "Thu, Aug 14, 2025", "start": "2025-08-14", "end": "2025-08-14"},
+                    {"label": "[FF] Firefox Release", "value": "Tue, Aug 19, 2025", "start": "2025-08-19", "end": "2025-08-19"},
+                    {"label": "[IB] Migration + Release Candidate", "value": "Mon, Aug 25, 2025", "start": "2025-08-25", "end": "2025-09-02"},
+                    {"label": "[IB] Final Candidate", "value": "Wed, Sep 3, 2025", "start": "2025-09-03", "end": "2025-09-04"},
+                    {"label": "[IB] Minor support", "value": "Thu, Sep 4, 2025", "start": "2025-09-04", "end": "2025-09-16"},
+                    {"label": "iOS Owner", "owners": ["Roman, Anton"]}
+                ]
+            },
+            {
+                "version": "143",
+                "milestones": [
+                    {"label": "Migration & Stabilization", "value": "Tue, Aug 26, 2025", "start": "2025-08-26", "end": "2025-09-02"},
+                    {"label": "Feature Freeze", "value": "Tue, 2 Sep, 2025", "start": "2025-09-02", "end": "2025-09-02"},
+                    {"label": "Migration Candidate", "value": "Mon, Sep 8, 2025", "start": "2025-09-08", "end": "2025-09-14"},
+                    {"label": "Release Candidate", "value": "Mon, Sep 15, 2025", "start": "2025-09-15", "end": "2025-09-16"},
+                    {"label": "[FF] Firefox Release", "value": "Wed, Sep 17, 2025", "start": "2025-09-17", "end": "2025-09-17"},
+                    {"label": "Final Candidate", "value": "Wed, Sep 17, 2025", "start": "2025-09-17", "end": "2025-09-18"},
+                    {"label": "[IB] Minor support", "value": "Wed, Sep 18, 2025", "start": "2025-09-19", "end": "2025-10-14"},
+                    {"label": "iOS Owner", "owners": ["Roman, Anton"]}
+                ]
+            },
+            {
+                "version": "144",
+                "milestones": [
+                    {"label": "Migration & Stabilization", "value": "Wed, Sep 17, 2025", "start": "2025-09-17", "end": "2025-09-30"},
+                    {"label": "Feature Freeze", "value": "Tue, Sep 30, 2025", "start": "2025-09-30", "end": "2025-09-30"},
+                    {"label": "Migration Candidate", "value": "Tue, Sep 30, 2025", "start": "2025-09-30", "end": "2025-10-12"},
+                    {"label": "Release Candidate", "value": "Mon, Oct 13, 2025", "start": "2025-10-13", "end": "2025-10-14"},
+                    {"label": "[FF] Firefox Release", "value": "Wed, Oct 15, 2025", "start": "2025-10-15", "end": "2025-10-15"},
+                    {"label": "Final Candidate", "value": "Wed, Oct 15, 2025", "start": "2025-10-15", "end": "2025-10-20"}
+                ]
+            },
+            {
+                "version": "145",
+                "milestones": [
+                    {"label": "Migration & Stabilization", "value": "Wed, Oct 15, 2025", "start": "2025-10-15", "end": "2025-10-30"},
+                    {"label": "Feature Freeze", "value": "Thu, Oct 30, 2025", "start": "2025-10-30", "end": "2025-10-30"},
+                    {"label": "Migration Candidate", "value": "Fri, Oct 31, 2025", "start": "2025-10-31", "end": "2025-11-09"},
+                    {"label": "Release Candidate", "value": "Mon, Nov 10, 2025", "start": "2025-11-10", "end": "2025-11-11"},
+                    {"label": "[FF] Firefox Release", "value": "Wed, Nov 12, 2025", "start": "2025-11-12", "end": "2025-11-12"},
+                    {"label": "Final Candidate", "value": "Wed, Nov 12, 2025", "start": "2025-11-12", "end": "2025-11-15"}
+                ]
+            },
+            {
+                "version": "146 (internal release only)",
+                "milestones": [
+                    {"label": "Migration & Stabilization", "value": "Thu, Nov 13, 2025", "start": "2025-11-13", "end": "2025-11-25"},
+                    {"label": "Feature Freeze", "value": "Tue, Nov 25, 2025", "start": "2025-11-25", "end": "2025-11-25"},
+                    {"label": "Migration Candidate", "value": "Wed, Nov 26, 2025", "start": "2025-11-26", "end": "2025-12-07"},
+                    {"label": "Release Candidate", "value": "Mon, Dec 8, 2025", "start": "2025-12-08", "end": "2025-12-09"},
+                    {"label": "[FF] Firefox Release", "value": "Wed, Dec 10, 2025", "start": "2025-12-10", "end": "2025-12-10"},
+                    {"label": "Final Candidate", "value": "Wed, Dec 10, 2025", "start": "2025-12-10", "end": "2025-12-15"}
+                ]
+            },
+            {
+                "version": "147",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Wed, Dec 10, 2025", "start": "2025-12-10", "end": "2025-12-17"},
+                    {"label": "Feature Freeze", "value": "Thu, Dec 18, 2025", "start": "2025-12-18", "end": "2025-12-18"},
+                    {"label": "Migration Candidate", "value": "Fri, Dec 19, 2025", "start": "2025-12-19", "end": "2026-01-13"},
+                    {"label": "[FF] Firefox Release", "value": "Mon, Jan 12, 2026", "start": "2026-01-12", "end": "2026-01-12"},
+                    {"label": "Release Candidate", "value": "Wed, Jan 14, 2026", "start": "2026-01-14", "end": "2026-01-18"},
+                    {"label": "Final Candidate", "value": "Mon, Jan 19, 2026", "start": "2026-01-19", "end": "2026-01-19"},
+                    {"label": "Support", "value": "till Feb 23, 2026", "start": "2026-01-20", "end": "2026-02-23"},
+                    {"label": "iOS Owner", "owners": ["Roman, Anton"]}
+                ]
+            },
+            {
+                "version": "148",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Mon, Jan 19, 2026", "start": "2026-01-19", "end": "2026-02-08"},
+                    {"label": "Feature Freeze", "value": "Mon, Feb 9, 2026", "start": "2026-02-09", "end": "2026-02-09"},
+                    {"label": "Migration Candidate", "value": "Tue, Feb 10, 2026", "start": "2026-02-10", "end": "2026-02-16"},
+                    {"label": "Release Candidate", "value": "Tue, Feb 17, 2026", "start": "2026-02-17", "end": "2026-02-23"},
+                    {"label": "[FF] Firefox Release", "value": "Mon, Feb 23, 2026", "start": "2026-02-23", "end": "2026-02-23"},
+                    {"label": "Final Candidate", "value": "Tue, Feb 24, 2026", "start": "2026-02-24", "end": "2026-02-24"},
+                    {"label": "Support", "value": "till Mar 23, 2026", "start": "2026-02-25", "end": "2026-03-23"},
+                    {"label": "iOS Owner", "owners": ["Roman, Anton"]}
+                ]
+            },
+            {
+                "version": "149",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Tue, Feb 24, 2026", "start": "2026-02-24", "end": "2026-03-08"},
+                    {"label": "Feature Freeze", "value": "Mon, Mar 9, 2026", "start": "2026-03-09", "end": "2026-03-09"},
+                    {"label": "Migration Candidate", "value": "Tue, Mar 10, 2026", "start": "2026-03-10", "end": "2026-03-16"},
+                    {"label": "Release Candidate", "value": "Tue, Mar 17, 2026", "start": "2026-03-17", "end": "2026-03-23"},
+                    {"label": "[FF] Firefox Release", "value": "Mon, Mar 23, 2026", "start": "2026-03-23", "end": "2026-03-23"},
+                    {"label": "Final Candidate", "value": "Tue, Mar 24, 2026", "start": "2026-03-24", "end": "2026-03-24"},
+                    {"label": "Support", "value": "till Apr 20, 2026", "start": "2026-03-25", "end": "2026-04-20"},
+                    {"label": "iOS Owner", "owners": ["Roman, Anton"]}
+                ]
+            }
+        ]
     }
-  ]
-
-  
-
+]
