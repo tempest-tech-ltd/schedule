@@ -71,9 +71,9 @@
           {"label": "Chromium Beta Promotion", "value": "Wed, Jan 14, 2026", "start": "2026-01-14", "end": "2026-01-14"},
           {"label": "Migration Start", "value": "Wed, Jan 21, 2026", "start": "2026-01-21", "end": "2026-01-29"},
           {"label": "Feature Freeze", "value": "Thu, Jan 29, 2026", "start": "2026-01-29", "end": "2026-01-29"},
-          {"label": "Pre-Release phase", "value": "Fri, Jan 30, 2026", "start": "2026-01-30", "end": "2026-02-15"},
-          {"label": "Release Candidate", "value": "Mon, Feb 16, 2026", "start": "2026-02-16", "end": "2026-02-17"},
-          {"label": "Final Candidate", "value": "Wed, Feb 18, 2026", "start": "2026-02-18", "end": "2026-02-18"},
+          {"label": "Migration Candidate", "value": "Fri, Jan 30, 2026", "start": "2026-01-30", "end": "2026-01-30"},
+          {"label": "Release Candidate", "value": "Mon, Feb 16, 2026", "start": "2026-01-31", "end": "2026-02-16"},
+          {"label": "Final Candidate", "value": "Wed, Feb 18, 2026", "start": "2026-02-17", "end": "2026-02-18"},
           {"label": "Minor Support", "value": "till Mar 17, 2026", "start": "2026-02-19", "end": "2026-03-17"},
           {"label": "Android Owner", "owners": ["Siarhei"]}
         ]
@@ -84,16 +84,30 @@
           {"label": "Chromium Beta Promotion", "value": "Wed, Feb 11, 2026", "start": "2026-02-11", "end": "2026-02-11"},
           {"label": "Migration Start", "value": "Wed, Feb 18, 2026", "start": "2026-02-18", "end": "2026-02-26"},
           {"label": "Feature Freeze", "value": "Thu, Feb 26, 2026", "start": "2026-02-26", "end": "2026-02-26"},
-          {"label": "Pre-Release phase", "value": "Fri, Feb 27, 2026", "start": "2026-02-27", "end": "2026-03-15"},
-          {"label": "Release Candidate", "value": "Mon, Mar 16, 2026", "start": "2026-03-16", "end": "2026-03-17"},
-          {"label": "Final Candidate", "value": "Wed, Mar 18, 2026", "start": "2026-03-18", "end": "2026-03-18"},
+          {"label": "Migration Candidate", "value": "Fri, Feb 27, 2026", "start": "2026-02-27", "end": "2026-02-27"},
+          {"label": "Release Candidate", "value": "Mon, Mar 16, 2026", "start": "2026-02-28", "end": "2026-03-16"},
+          {"label": "Final Candidate", "value": "Wed, Mar 18, 2026", "start": "2026-03-17", "end": "2026-03-18"},
           {"label": "Minor Support", "value": "till Apr 14, 2026", "start": "2026-03-19", "end": "2026-04-14"},
+          {"label": "Android Owner", "owners": ["Siarhei"]}
+        ]
+      },
+      {
+        "version": "147",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Mar 11, 2026", "start": "2026-03-11", "end": "2026-03-11"},
+          {"label": "Migration Start", "value": "Wed, Mar 18, 2026", "start": "2026-03-18", "end": "2026-03-26"},
+          {"label": "Feature Freeze", "value": "Thu, Mar 26, 2026", "start": "2026-03-26", "end": "2026-03-26"},
+          {"label": "Migration Candidate", "value": "Fri, Mar 27, 2026", "start": "2026-03-27", "end": "2026-03-27"},
+          {"label": "Release Candidate", "value": "Mon, Apr 13, 2026", "start": "2026-03-28", "end": "2026-04-13"},
+          {"label": "Final Candidate", "value": "Wed, Apr 15, 2026", "start": "2026-04-14", "end": "2026-04-15"},
+          {"label": "Minor Support", "value": "till May 12, 2026", "start": "2026-04-16", "end": "2026-05-12"},
           {"label": "Android Owner", "owners": ["Diego"]}
         ]
       }
     ]
   }
 ]
+
 
 
 
