@@ -10,8 +10,7 @@
           {"label": "Feature Freeze", "value": "Thu, Aug 21, 2025", "start": "2025-08-21", "end": "2025-08-21"},
           {"label": "Pre-Release phase", "value": "Mon, Aug 25, 2025", "start": "2025-08-25", "end": "2025-09-14"},
           {"label": "Release Candidate", "value": "Mon, Sep 15, 2025", "start": "2025-09-15", "end": "2025-09-16"},
-          {"label": "Final Candidate", "value": "Wed, Sep 17, 2025", "start": "2025-09-17", "end": "2025-09-18"},
-          {"label": "Android Owner", "owners": ["Siarhei"]}
+          {"label": "Final Candidate", "value": "Wed, Sep 17, 2025", "start": "2025-09-17", "end": "2025-09-18"}
         ]
       },
       {
@@ -22,8 +21,7 @@
           {"label": "Feature Freeze", "value": "Thu, Sep 18, 2025", "start": "2025-09-18", "end": "2025-09-18"},
           {"label": "Pre-Release phase", "value": "Mon, Sep 22, 2025", "start": "2025-09-22", "end": "2025-10-06"},
           {"label": "Release Candidate", "value": "Mon, Oct 6, 2025", "start": "2025-10-06", "end": "2025-10-07"},
-          {"label": "Final Candidate", "value": "Wed, Oct 8, 2025", "start": "2025-10-08", "end": "2025-10-09"},
-          {"label": "Android Owner", "owners": ["Paul"]}
+          {"label": "Final Candidate", "value": "Wed, Oct 8, 2025", "start": "2025-10-08", "end": "2025-10-09"}
         ]
       },
       {
@@ -35,8 +33,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Oct 17, 2025", "start": "2025-10-17", "end": "2025-11-02"},
           {"label": "Release Candidate", "value": "Mon, Nov 3, 2025", "start": "2025-11-03", "end": "2025-11-04"},
           {"label": "Final Candidate", "value": "Wed, Nov 5, 2025", "start": "2025-11-05", "end": "2025-11-06"},
-          {"label": "Minor Support", "value": "till Dec 9, 2025", "start": "2025-11-07", "end": "2025-12-09"},
-          {"label": "Android Owner", "owners": ["Siarhei"]}
+          {"label": "Minor Support", "value": "till Dec 9, 2025", "start": "2025-11-07", "end": "2025-12-09"}
         ]
       },
       {
@@ -48,8 +45,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Nov 21, 2025", "start": "2025-11-21", "end": "2025-12-07"},
           {"label": "Release Candidate", "value": "Mon, Dec 8, 2025", "start": "2025-12-08", "end": "2025-12-09"},
           {"label": "Final Candidate", "value": "Wed, Dec 10, 2025", "start": "2025-12-10", "end": "2025-12-11"},
-          {"label": "Minor Support", "value": "till Jan 20, 2026", "start": "2025-12-12", "end": "2026-01-20"},
-          {"label": "Android Owner", "owners": ["Diego"]}
+          {"label": "Minor Support", "value": "till Jan 20, 2026", "start": "2025-12-12", "end": "2026-01-20"}
         ]
       },
       {
@@ -61,8 +57,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Dec 26, 2025", "start": "2025-12-26", "end": "2026-01-18"},
           {"label": "Release Candidate", "value": "Mon, Jan 19, 2026", "start": "2026-01-19", "end": "2026-01-20"},
           {"label": "Final Candidate", "value": "Wed, Jan 21, 2026", "start": "2026-01-21", "end": "2026-01-21"},
-          {"label": "Minor Support", "value": "till Feb 17, 2026", "start": "2026-01-22", "end": "2026-02-17"},
-          {"label": "Android Owner", "owners": ["Paul"]}
+          {"label": "Minor Support", "value": "till Feb 17, 2026", "start": "2026-01-22", "end": "2026-02-17"}
         ]
       },
       {
@@ -74,8 +69,7 @@
           {"label": "Migration Candidate", "value": "Fri, Jan 30, 2026", "start": "2026-01-30", "end": "2026-01-30"},
           {"label": "Release Candidate", "value": "Mon, Feb 16, 2026", "start": "2026-01-31", "end": "2026-02-16"},
           {"label": "Final Candidate", "value": "Wed, Feb 18, 2026", "start": "2026-02-17", "end": "2026-02-18"},
-          {"label": "Minor Support", "value": "till Mar 17, 2026", "start": "2026-02-19", "end": "2026-03-17"},
-          {"label": "Android Owner", "owners": ["Siarhei"]}
+          {"label": "Minor Support", "value": "till Mar 17, 2026", "start": "2026-02-19", "end": "2026-03-17"}
         ]
       },
       {
@@ -87,8 +81,7 @@
           {"label": "Migration Candidate", "value": "Fri, Feb 27, 2026", "start": "2026-02-27", "end": "2026-02-27"},
           {"label": "Release Candidate", "value": "Mon, Mar 16, 2026", "start": "2026-02-28", "end": "2026-03-16"},
           {"label": "Final Candidate", "value": "Wed, Mar 18, 2026", "start": "2026-03-17", "end": "2026-03-18"},
-          {"label": "Minor Support", "value": "till Apr 14, 2026", "start": "2026-03-19", "end": "2026-04-14"},
-          {"label": "Android Owner", "owners": ["Siarhei"]}
+          {"label": "Minor Support", "value": "till Apr 14, 2026", "start": "2026-03-19", "end": "2026-04-14"}
         ]
       },
       {
@@ -100,13 +93,13 @@
           {"label": "Migration Candidate", "value": "Fri, Mar 27, 2026", "start": "2026-03-27", "end": "2026-03-27"},
           {"label": "Release Candidate", "value": "Mon, Apr 13, 2026", "start": "2026-03-28", "end": "2026-04-13"},
           {"label": "Final Candidate", "value": "Wed, Apr 15, 2026", "start": "2026-04-14", "end": "2026-04-15"},
-          {"label": "Minor Support", "value": "till May 12, 2026", "start": "2026-04-16", "end": "2026-05-12"},
-          {"label": "Android Owner", "owners": ["Diego"]}
+          {"label": "Minor Support", "value": "till May 12, 2026", "start": "2026-04-16", "end": "2026-05-12"}
         ]
       }
     ]
   }
 ]
+
 
 
 
