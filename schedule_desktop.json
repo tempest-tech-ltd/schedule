@@ -9,8 +9,7 @@
           {"label": "Feature Freeze", "value": "Thu, Jul 10, 2025", "start": "2025-07-10", "end": "2025-07-10"},
           {"label": "Pre-Release phase", "value": "Mon, Jul 14, 2025", "start": "2025-07-14", "end": "2025-08-03"},
           {"label": "Release Candidate", "value": "Mon, Aug 4, 2025", "start": "2025-08-04", "end": "2025-08-05"},
-          {"label": "Final Candidate", "value": "Wed, Aug 6, 2025", "start": "2025-08-06", "end": "2025-08-07"},
-          {"label": "Desktop Owner", "owners": ["Clement"]}
+          {"label": "Final Candidate", "value": "Wed, Aug 6, 2025", "start": "2025-08-06", "end": "2025-08-07"}
         ]
       },
       {
@@ -21,8 +20,7 @@
           {"label": "Pre-Release phase", "value": "Mon, Aug 18, 2025", "start": "2025-08-18", "end": "2025-08-31"},
           {"label": "Release Candidate", "value": "Mon, Sep 1, 2025", "start": "2025-09-01", "end": "2025-09-02"},
           {"label": "Final Candidate", "value": "Wed, Sep 3, 2025", "start": "2025-09-03", "end": "2025-09-04"},
-          {"label": "Minor support", "value": "Thu, Sep 4, 2025", "start": "2025-09-04", "end": "2025-09-30"},
-          {"label": "Desktop Owner", "owners": ["Denis"]}
+          {"label": "Minor support", "value": "Thu, Sep 4, 2025", "start": "2025-09-04", "end": "2025-09-30"}
         ]
       },
       {
@@ -33,8 +31,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Sep 12, 2025", "start": "2025-09-12", "end": "2025-09-28"},
           {"label": "Release Candidate", "value": "Mon, Sep 29, 2025", "start": "2025-09-29", "end": "2025-09-30"},
           {"label": "Final Candidate", "value": "Wed, Oct 1, 2025", "start": "2025-10-01", "end": "2025-10-02"},
-          {"label": "Minor Support", "value": "till Oct 28, 2025", "start": "2025-10-03", "end": "2025-10-28"},
-          {"label": "Desktop Owner", "owners": ["Michael"]}
+          {"label": "Minor Support", "value": "till Oct 28, 2025", "start": "2025-10-03", "end": "2025-10-28"}
         ]
       },
       {
@@ -45,8 +42,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Oct 10, 2025", "start": "2025-10-10", "end": "2025-10-27"},
           {"label": "Release Candidate", "value": "Mon, Oct 27, 2025", "start": "2025-10-27", "end": "2025-10-28"},
           {"label": "Final Candidate", "value": "Wed, Oct 29, 2025", "start": "2025-10-29", "end": "2025-10-30"},
-          {"label": "Minor Support", "value": "till Dec 2, 2025", "start": "2025-10-31", "end": "2025-12-02"},
-          {"label": "Desktop Owner", "owners": ["Denis"]}
+          {"label": "Minor Support", "value": "till Dec 2, 2025", "start": "2025-10-31", "end": "2025-12-02"}
         ]
       },
       {
@@ -57,8 +53,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Nov 14, 2025", "start": "2025-11-14", "end": "2025-11-30"},
           {"label": "Release Candidate", "value": "Mon, Dec 1, 2025", "start": "2025-12-01", "end": "2025-12-02"},
           {"label": "Final Candidate", "value": "Wed, Dec 3, 2025", "start": "2025-12-03", "end": "2025-12-04"},
-          {"label": "Minor Support", "value": "till Jan 13, 2026", "start": "2025-12-05", "end": "2026-01-13"},
-          {"label": "Desktop Owner", "owners": ["Christophe"]}
+          {"label": "Minor Support", "value": "till Jan 13, 2026", "start": "2025-12-05", "end": "2026-01-13"}
         ]
       },
       {
@@ -69,8 +64,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Dec 19, 2025", "start": "2025-12-19", "end": "2026-01-11"},
           {"label": "Release Candidate", "value": "Mon, Jan 12, 2026", "start": "2026-01-12", "end": "2026-01-13"},
           {"label": "Final Candidate", "value": "Wed, Jan 14, 2026", "start": "2026-01-14", "end": "2026-01-15"},
-          {"label": "Minor Support", "value": "till Feb 10, 2026", "start": "2026-01-15", "end": "2026-02-10"},
-          {"label": "Desktop Owner", "owners": ["Michael"]}
+          {"label": "Minor Support", "value": "till Feb 10, 2026", "start": "2026-01-15", "end": "2026-02-10"}
         ]
       },
       {
@@ -81,8 +75,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Jan 23, 2026", "start": "2026-01-23", "end": "2026-02-08"},
           {"label": "Release Candidate", "value": "Mon, Feb 9, 2026", "start": "2026-02-09", "end": "2026-02-10"},
           {"label": "Final Candidate", "value": "Wed, Feb 11, 2026", "start": "2026-02-11", "end": "2026-02-12"},
-          {"label": "Minor Support", "value": "till Mar 9, 2026", "start": "2026-02-12", "end": "2026-03-09"},
-          {"label": "Desktop Owner", "owners": ["Michael"]}
+          {"label": "Minor Support", "value": "till Mar 9, 2026", "start": "2026-02-12", "end": "2026-03-09"}
         ]
       },
       {
@@ -93,8 +86,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Feb 20, 2026", "start": "2026-02-20", "end": "2026-03-08"},
           {"label": "Release Candidate", "value": "Mon, Mar 9, 2026", "start": "2026-03-09", "end": "2026-03-10"},
           {"label": "Final Candidate", "value": "Wed, Mar 11, 2026", "start": "2026-03-11", "end": "2026-03-12"},
-          {"label": "Minor Support", "value": "till Apr 7, 2026", "start": "2026-03-12", "end": "2026-04-07"},
-          {"label": "Desktop Owner", "owners": ["?"]}
+          {"label": "Minor Support", "value": "till Apr 7, 2026", "start": "2026-03-12", "end": "2026-04-07"}
         ]
       },
       {
@@ -105,8 +97,7 @@
           {"label": "Pre-Release phase", "value": "Fri, Mar 20, 2026", "start": "2026-03-20", "end": "2026-04-05"},
           {"label": "Release Candidate", "value": "Mon, Apr 6, 2026", "start": "2026-04-06", "end": "2026-04-07"},
           {"label": "Final Candidate", "value": "Wed, Apr 8, 2026", "start": "2026-04-08", "end": "2026-04-09"},
-          {"label": "Minor Support", "value": "till May 5, 2026", "start": "2026-04-09", "end": "2026-05-05"},
-          {"label": "Desktop Owner", "owners": ["?"]}
+          {"label": "Minor Support", "value": "till May 5, 2026", "start": "2026-04-09", "end": "2026-05-05"}
         ]
       }
     ]
