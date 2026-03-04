@@ -89,8 +89,8 @@
                 "milestones": [
                     {"label": "Migration Start", "value": "Tue, Feb 24, 2026", "start": "2026-02-24", "end": "2026-03-08"},
                     {"label": "Feature Freeze", "value": "Mon, Mar 9, 2026", "start": "2026-03-09", "end": "2026-03-09"},
-                    {"label": "Migration Candidate", "value": "Tue, Mar 10, 2026", "start": "2026-03-10", "end": "2026-03-16"},
-                    {"label": "Release Candidate", "value": "Tue, Mar 17, 2026", "start": "2026-03-17", "end": "2026-03-23"},
+                    {"label": "Migration Candidate", "value": "Tue, Mar 10, 2026", "start": "2026-03-10", "end": "2026-03-18"},
+                    {"label": "Release Candidate", "value": "Thu, Mar 19, 2026", "start": "2026-03-19", "end": "2026-03-23"},
                     {"label": "[FF] Firefox Release", "value": "Mon, Mar 23, 2026", "start": "2026-03-23", "end": "2026-03-23"},
                     {"label": "Final Candidate", "value": "Tue, Mar 24, 2026", "start": "2026-03-24", "end": "2026-03-24"},
                     {"label": "Support", "value": "till Apr 20, 2026", "start": "2026-03-25", "end": "2026-04-20"}
@@ -101,8 +101,8 @@
                 "milestones": [
                     {"label": "Migration Start", "value": "Tue, Mar 24, 2026", "start": "2026-03-24", "end": "2026-04-05"},
                     {"label": "Feature Freeze", "value": "Mon, Apr 6, 2026", "start": "2026-04-06", "end": "2026-04-06"},
-                    {"label": "Migration Candidate", "value": "Tue, Apr 7, 2026", "start": "2026-04-07", "end": "2026-04-13"},
-                    {"label": "Release Candidate", "value": "Tue, Apr 14, 2026", "start": "2026-04-14", "end": "2026-04-20"},
+                    {"label": "Migration Candidate", "value": "Tue, Apr 7, 2026", "start": "2026-04-07", "end": "2026-04-15"},
+                    {"label": "Release Candidate", "value": "Thu, Apr 16, 2026", "start": "2026-04-16", "end": "2026-04-20"},
                     {"label": "[FF] Firefox Release", "value": "Mon, Apr 20, 2026", "start": "2026-04-20", "end": "2026-04-20"},
                     {"label": "Final Candidate", "value": "Tue, Apr 21, 2026", "start": "2026-04-21", "end": "2026-04-21"},
                     {"label": "Support", "value": "till May 18, 2026", "start": "2026-04-22", "end": "2026-05-18"}
@@ -111,4 +111,5 @@
         ]
     }
 ]
+
 
