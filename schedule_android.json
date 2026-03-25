@@ -95,6 +95,30 @@
           {"label": "Final Candidate", "value": "Wed, Apr 15, 2026", "start": "2026-04-14", "end": "2026-04-15"},
           {"label": "Minor Support", "value": "till May 12, 2026", "start": "2026-04-16", "end": "2026-05-12"}
         ]
+      },
+      {
+        "version": "148",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Apr 8, 2026", "start": "2026-04-08", "end": "2026-04-08"},
+          {"label": "Migration Start", "value": "Wed, Apr 15, 2026", "start": "2026-04-15", "end": "2026-04-23"},
+          {"label": "Feature Freeze", "value": "Thu, Apr 23, 2026", "start": "2026-04-23", "end": "2026-04-23"},
+          {"label": "Migration Candidate", "value": "Fri, Apr 24, 2026", "start": "2026-04-24", "end": "2026-04-24"},
+          {"label": "Release Candidate", "value": "Mon, May 11, 2026", "start": "2026-04-25", "end": "2026-05-11"},
+          {"label": "Final Candidate", "value": "Wed, May 13, 2026", "start": "2026-05-12", "end": "2026-05-13"},
+          {"label": "Minor Support", "value": "till Jun 9, 2026", "start": "2026-05-14", "end": "2026-06-09"}
+        ]
+      },
+      {
+        "version": "149",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, May 6, 2026", "start": "2026-05-06", "end": "2026-05-06"},
+          {"label": "Migration Start", "value": "Wed, May 13, 2026", "start": "2026-05-13", "end": "2026-05-21"},
+          {"label": "Feature Freeze", "value": "Thu, May 21, 2026", "start": "2026-05-21", "end": "2026-05-21"},
+          {"label": "Migration Candidate", "value": "Fri, May 22, 2026", "start": "2026-05-22", "end": "2026-05-22"},
+          {"label": "Release Candidate", "value": "Mon, Jun 8, 2026", "start": "2026-05-23", "end": "2026-06-08"},
+          {"label": "Final Candidate", "value": "Wed, Jun 10, 2026", "start": "2026-06-09", "end": "2026-06-10"},
+          {"label": "Minor Support", "value": "till Jul 7, 2026", "start": "2026-06-11", "end": "2026-07-07"}
+        ]
       }
     ]
   }
