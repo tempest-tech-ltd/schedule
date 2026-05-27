@@ -131,6 +131,30 @@
                     {"label": "Final Candidate", "value": "Tue, Jun 16, 2026", "start": "2026-06-16", "end": "2026-06-16"},
                     {"label": "Support", "value": "till Jul 20, 2026", "start": "2026-06-17", "end": "2026-07-20"}
                 ]
+            },
+            {
+                "version": "153",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Tue, Jun 16, 2026", "start": "2026-06-16", "end": "2026-07-05"},
+                    {"label": "Feature Freeze", "value": "Mon, Jul 6, 2026", "start": "2026-07-06", "end": "2026-07-06"},
+                    {"label": "Migration Candidate", "value": "Tue, Jul 7, 2026", "start": "2026-07-07", "end": "2026-07-15"},
+                    {"label": "Release Candidate", "value": "Thu, Jul 16, 2026", "start": "2026-07-16", "end": "2026-07-20"},
+                    {"label": "[FF] Firefox Release", "value": "Mon, Jul 20, 2026", "start": "2026-07-20", "end": "2026-07-20"},
+                    {"label": "Final Candidate", "value": "Tue, Jul 21, 2026", "start": "2026-07-21", "end": "2026-07-21"},
+                    {"label": "Support", "value": "till Aug 17, 2026", "start": "2026-07-22", "end": "2026-08-17"}
+                ]
+            },
+            {
+                "version": "154",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Tue, Jul 21, 2026", "start": "2026-07-21", "end": "2026-08-02"},
+                    {"label": "Feature Freeze", "value": "Mon, Aug 3, 2026", "start": "2026-08-03", "end": "2026-08-03"},
+                    {"label": "Migration Candidate", "value": "Tue, Aug 4, 2026", "start": "2026-08-04", "end": "2026-08-12"},
+                    {"label": "Release Candidate", "value": "Thu, Aug 13, 2026", "start": "2026-08-13", "end": "2026-08-17"},
+                    {"label": "[FF] Firefox Release", "value": "Mon, Aug 17, 2026", "start": "2026-08-17", "end": "2026-08-17"},
+                    {"label": "Final Candidate", "value": "Tue, Aug 18, 2026", "start": "2026-08-18", "end": "2026-08-18"},
+                    {"label": "Support", "value": "till Sep 14, 2026", "start": "2026-08-19", "end": "2026-09-14"}
+                ]
             }
         ]
     }
