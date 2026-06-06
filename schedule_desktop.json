@@ -132,6 +132,17 @@
           {"label": "Final Candidate", "value": "Wed, Jul 1, 2026", "start": "2026-07-01", "end": "2026-07-02"},
           {"label": "Minor Support", "value": "till Jul 28, 2026", "start": "2026-07-02", "end": "2026-07-28"}
         ]
+      },
+      {
+        "version": "151",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Jul 1, 2026", "start": "2026-07-01", "end": "2026-07-09"},
+          {"label": "Feature Freeze", "value": "Thu, Jul 9, 2026", "start": "2026-07-09", "end": "2026-07-09"},
+          {"label": "Pre-Release phase", "value": "Fri, Jul 10, 2026", "start": "2026-07-10", "end": "2026-07-26"},
+          {"label": "Release Candidate", "value": "Mon, Jul 27, 2026", "start": "2026-07-27", "end": "2026-07-28"},
+          {"label": "Final Candidate", "value": "Wed, Jul 29, 2026", "start": "2026-07-29", "end": "2026-07-30"},
+          {"label": "Minor Support", "value": "till Aug 25, 2026", "start": "2026-07-30", "end": "2026-08-25"}
+        ]
       }
     ]
   }
