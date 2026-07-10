@@ -136,24 +136,36 @@
         "version": "151",
         "milestones": [
           {"label": "Chromium Beta Promotion", "value": "Wed, Jul 1, 2026", "start": "2026-07-01", "end": "2026-07-01"},
-          {"label": "Migration Start", "value": "Wed, Jul 8, 2026", "start": "2026-07-08", "end": "2026-07-16"},
-          {"label": "Feature Freeze", "value": "Thu, Jul 16, 2026", "start": "2026-07-16", "end": "2026-07-16"},
-          {"label": "Migration Candidate", "value": "Fri, Jul 17, 2026", "start": "2026-07-17", "end": "2026-07-17"},
-          {"label": "Release Candidate", "value": "Mon, Aug 3, 2026", "start": "2026-07-18", "end": "2026-08-03"},
-          {"label": "Final Candidate", "value": "Wed, Aug 5, 2026", "start": "2026-08-04", "end": "2026-08-05"},
-          {"label": "Minor Support", "value": "till Sep 1, 2026", "start": "2026-08-06", "end": "2026-09-01"}
+          {"label": "Migration Start", "value": "Wed, Jul 15, 2026", "start": "2026-07-15", "end": "2026-07-23"},
+          {"label": "Feature Freeze", "value": "Thu, Jul 23, 2026", "start": "2026-07-23", "end": "2026-07-23"},
+          {"label": "Migration Candidate", "value": "Fri, Jul 24, 2026", "start": "2026-07-24", "end": "2026-07-24"},
+          {"label": "Release Candidate", "value": "Mon, Aug 10, 2026", "start": "2026-07-25", "end": "2026-08-10"},
+          {"label": "Final Candidate", "value": "Wed, Aug 12, 2026", "start": "2026-08-11", "end": "2026-08-12"},
+          {"label": "Minor Support", "value": "till Sep 8, 2026", "start": "2026-08-13", "end": "2026-09-08"}
         ]
       },
       {
         "version": "152",
         "milestones": [
           {"label": "Chromium Beta Promotion", "value": "Wed, Jul 29, 2026", "start": "2026-07-29", "end": "2026-07-29"},
-          {"label": "Migration Start", "value": "Wed, Aug 5, 2026", "start": "2026-08-05", "end": "2026-08-13"},
-          {"label": "Feature Freeze", "value": "Thu, Aug 13, 2026", "start": "2026-08-13", "end": "2026-08-13"},
-          {"label": "Migration Candidate", "value": "Fri, Aug 14, 2026", "start": "2026-08-14", "end": "2026-08-14"},
-          {"label": "Release Candidate", "value": "Mon, Aug 31, 2026", "start": "2026-08-15", "end": "2026-08-31"},
-          {"label": "Final Candidate", "value": "Wed, Sep 2, 2026", "start": "2026-09-01", "end": "2026-09-02"},
-          {"label": "Minor Support", "value": "till Sep 29, 2026", "start": "2026-09-03", "end": "2026-09-29"}
+          {"label": "Migration Start", "value": "Wed, Aug 12, 2026", "start": "2026-08-12", "end": "2026-08-20"},
+          {"label": "Feature Freeze", "value": "Thu, Aug 20, 2026", "start": "2026-08-20", "end": "2026-08-20"},
+          {"label": "Migration Candidate", "value": "Fri, Aug 21, 2026", "start": "2026-08-21", "end": "2026-08-21"},
+          {"label": "Release Candidate", "value": "Mon, Sep 7, 2026", "start": "2026-08-22", "end": "2026-09-07"},
+          {"label": "Final Candidate", "value": "Wed, Sep 9, 2026", "start": "2026-09-08", "end": "2026-09-09"},
+          {"label": "Minor Support", "value": "till Oct 6, 2026", "start": "2026-09-10", "end": "2026-10-06"}
+        ]
+      },
+     {
+        "version": "154",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Sep 2, 2026", "start": "2026-09-02", "end": "2026-09-02"},
+          {"label": "Migration Start", "value": "Wed, Sep 9, 2026", "start": "2026-09-09", "end": "2026-09-17"},
+          {"label": "Feature Freeze", "value": "Thu, Sep 17, 2026", "start": "2026-09-17", "end": "2026-09-17"},
+          {"label": "Migration Candidate", "value": "Fri, Sep 18, 2026", "start": "2026-09-18", "end": "2026-09-18"},
+          {"label": "Release Candidate", "value": "Mon, Oct 5, 2026", "start": "2026-09-19", "end": "2026-10-05"},
+          {"label": "Final Candidate", "value": "Wed, Oct 7, 2026", "start": "2026-10-06", "end": "2026-10-07"},
+          {"label": "Minor Support", "value": "till Nov 3, 2026", "start": "2026-10-08", "end": "2026-11-03"}
         ]
       }
     ]
