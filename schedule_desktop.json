@@ -165,6 +165,28 @@
           {"label": "Final Candidate", "value": "Wed, Sep 9, 2026", "start": "2026-09-09", "end": "2026-09-10"},
           {"label": "Minor Support", "value": "till Sep 22, 2026", "start": "2026-09-10", "end": "2026-09-22"}
         ]
+      },
+      {
+        "version": "154",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Sep 2, 2026", "start": "2026-09-02", "end": "2026-09-10"},
+          {"label": "Feature Freeze", "value": "Thu, Sep 10, 2026", "start": "2026-09-10", "end": "2026-09-10"},
+          {"label": "Pre-Release phase", "value": "Fri, Sep 11, 2026", "start": "2026-09-11", "end": "2026-09-20"},
+          {"label": "Release Candidate", "value": "Mon, Sep 21, 2026", "start": "2026-09-21", "end": "2026-09-22"},
+          {"label": "Final Candidate", "value": "Wed, Sep 23, 2026", "start": "2026-09-23", "end": "2026-09-24"},
+          {"label": "Minor Support", "value": "till Oct 6, 2026", "start": "2026-09-24", "end": "2026-10-06"}
+        ]
+      },
+      {
+        "version": "155",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Sep 16, 2026", "start": "2026-09-16", "end": "2026-09-24"},
+          {"label": "Feature Freeze", "value": "Thu, Sep 24, 2026", "start": "2026-09-24", "end": "2026-09-24"},
+          {"label": "Pre-Release phase", "value": "Fri, Sep 25, 2026", "start": "2026-09-25", "end": "2026-10-04"},
+          {"label": "Release Candidate", "value": "Mon, Oct 5, 2026", "start": "2026-10-05", "end": "2026-10-06"},
+          {"label": "Final Candidate", "value": "Wed, Oct 7, 2026", "start": "2026-10-07", "end": "2026-10-08"},
+          {"label": "Minor Support", "value": "till Oct 20, 2026", "start": "2026-10-08", "end": "2026-10-20"}
+        ]
       }
     ]
   }
