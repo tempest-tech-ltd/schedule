@@ -157,7 +157,7 @@
                 ]
             },
             {
-                "version": "155",
+                "version": "155 (internal)",
                 "milestones": [
                     {"label": "Migration Start", "value": "Mon, Aug 10, 2026", "start": "2026-08-10", "end": "2026-08-20"},
                     {"label": "Feature Freeze", "value": "Fri, Aug 21, 2026", "start": "2026-08-21", "end": "2026-08-21"},
@@ -181,7 +181,7 @@
                 ]
             },
             {
-                "version": "157",
+                "version": "157 (internal)",
                 "milestones": [
                     {"label": "Migration Start", "value": "Mon, Sep 7, 2026", "start": "2026-09-07", "end": "2026-09-17"},
                     {"label": "Feature Freeze", "value": "Fri, Sep 18, 2026", "start": "2026-09-18", "end": "2026-09-18"},
