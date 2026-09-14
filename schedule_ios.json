@@ -171,35 +171,29 @@
                 "version": "156",
                 "milestones": [
                     {"label": "Migration Start", "value": "Mon, Aug 24, 2026", "start": "2026-08-24", "end": "2026-09-03"},
-                    {"label": "Feature Freeze", "value": "Fri, Sep 4, 2026", "start": "2026-09-04", "end": "2026-09-04"},
-                    {"label": "Migration Candidate", "value": "Mon, Sep 7, 2026", "start": "2026-09-07", "end": "2026-09-13"},
+                    {"label": "Feature Freeze", "value": "Fri, Sep 4, 2026", "start": "2026-09-04", "end": "2026-09-07"},
+                    {"label": "Migration Candidate", "value": "Tue, Sep 8, 2026", "start": "2026-09-08", "end": "2026-09-13"},
                     {"label": "Release Candidate", "value": "Mon, Sep 14, 2026", "start": "2026-09-14", "end": "2026-09-15"},
-                    {"label": "[FF] Firefox Release", "value": "Mon, Sep 14, 2026", "start": "2026-09-14", "end": "2026-09-14"},
                     {"label": "Final Candidate", "value": "Wed, Sep 16, 2026", "start": "2026-09-16", "end": "2026-09-16"},
-                    {"label": "Support", "value": "till Sep 28, 2026", "start": "2026-09-17", "end": "2026-09-28"}
+                    {"label": "Support", "value": "till Oct 12, 2026", "start": "2026-09-17", "end": "2026-10-12"}
                 ]
             },
             {
                 "version": "157 (internal)",
                 "milestones": [
-                    {"label": "Migration Start", "value": "Mon, Sep 7, 2026", "start": "2026-09-07", "end": "2026-09-17"},
-                    {"label": "Feature Freeze", "value": "Fri, Sep 18, 2026", "start": "2026-09-18", "end": "2026-09-18"},
-                    {"label": "Migration Candidate", "value": "Mon, Sep 21, 2026", "start": "2026-09-21", "end": "2026-09-27"},
-                    {"label": "Release Candidate", "value": "Mon, Sep 28, 2026", "start": "2026-09-28", "end": "2026-09-29"},
-                    {"label": "[FF] Firefox Release", "value": "Mon, Sep 28, 2026", "start": "2026-09-28", "end": "2026-09-28"},
-                    {"label": "Final Candidate", "value": "Wed, Sep 30, 2026", "start": "2026-09-30", "end": "2026-09-30"}
+                    {"label": "Migration Start", "value": "Mon, Sep 7, 2026", "start": "2026-09-07", "end": "2026-09-21"},
+                    {"label": "Migration Candidate", "value": "Tue, Sep 22, 2026", "start": "2026-09-22", "end": "2026-09-22"}
                 ]
             },
             {
                 "version": "158",
                 "milestones": [
                     {"label": "Migration Start", "value": "Mon, Sep 21, 2026", "start": "2026-09-21", "end": "2026-10-01"},
-                    {"label": "Feature Freeze", "value": "Fri, Oct 2, 2026", "start": "2026-10-02", "end": "2026-10-02"},
-                    {"label": "Migration Candidate", "value": "Mon, Oct 5, 2026", "start": "2026-10-05", "end": "2026-10-11"},
+                    {"label": "Feature Freeze", "value": "Fri, Oct 2, 2026", "start": "2026-10-02", "end": "2026-10-05"},
+                    {"label": "Migration Candidate", "value": "Tue, Oct 6, 2026", "start": "2026-10-06", "end": "2026-10-11"},
                     {"label": "Release Candidate", "value": "Mon, Oct 12, 2026", "start": "2026-10-12", "end": "2026-10-13"},
-                    {"label": "[FF] Firefox Release", "value": "Mon, Oct 12, 2026", "start": "2026-10-12", "end": "2026-10-12"},
                     {"label": "Final Candidate", "value": "Wed, Oct 14, 2026", "start": "2026-10-14", "end": "2026-10-14"},
-                    {"label": "Support", "value": "till Oct 26, 2026", "start": "2026-10-15", "end": "2026-10-26"}
+                    {"label": "Support", "value": "till Nov 9, 2026", "start": "2026-10-15", "end": "2026-11-09"}
                 ]
             }
         ]
