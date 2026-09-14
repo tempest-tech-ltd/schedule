@@ -195,6 +195,42 @@
                     {"label": "Final Candidate", "value": "Wed, Oct 14, 2026", "start": "2026-10-14", "end": "2026-10-14"},
                     {"label": "Support", "value": "till Nov 9, 2026", "start": "2026-10-15", "end": "2026-11-09"}
                 ]
+            },
+            {
+                "version": "159 (internal)",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Mon, Oct 5, 2026", "start": "2026-10-05", "end": "2026-10-19"},
+                    {"label": "Migration Candidate", "value": "Tue, Oct 20, 2026", "start": "2026-10-20", "end": "2026-10-20"}
+                ]
+            },
+            {
+                "version": "160",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Mon, Oct 19, 2026", "start": "2026-10-19", "end": "2026-10-29"},
+                    {"label": "Feature Freeze", "value": "Fri, Oct 30, 2026", "start": "2026-10-30", "end": "2026-11-02"},
+                    {"label": "Migration Candidate", "value": "Tue, Nov 3, 2026", "start": "2026-11-03", "end": "2026-11-08"},
+                    {"label": "Release Candidate", "value": "Mon, Nov 9, 2026", "start": "2026-11-09", "end": "2026-11-10"},
+                    {"label": "Final Candidate", "value": "Wed, Nov 11, 2026", "start": "2026-11-11", "end": "2026-11-11"},
+                    {"label": "Support", "value": "till Dec 7, 2026", "start": "2026-11-12", "end": "2026-12-07"}
+                ]
+            },
+            {
+                "version": "161 (internal)",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Mon, Nov 2, 2026", "start": "2026-11-02", "end": "2026-11-16"},
+                    {"label": "Migration Candidate", "value": "Tue, Nov 17, 2026", "start": "2026-11-17", "end": "2026-11-17"}
+                ]
+            },
+            {
+                "version": "162",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Mon, Nov 16, 2026", "start": "2026-11-16", "end": "2026-11-26"},
+                    {"label": "Feature Freeze", "value": "Fri, Nov 27, 2026", "start": "2026-11-27", "end": "2026-11-30"},
+                    {"label": "Migration Candidate", "value": "Tue, Dec 1, 2026", "start": "2026-12-01", "end": "2026-12-06"},
+                    {"label": "Release Candidate", "value": "Mon, Dec 7, 2026", "start": "2026-12-07", "end": "2026-12-08"},
+                    {"label": "Final Candidate", "value": "Wed, Dec 9, 2026", "start": "2026-12-09", "end": "2026-12-09"},
+                    {"label": "Support", "value": "till Jan 11, 2027", "start": "2026-12-10", "end": "2027-01-11"}
+                ]
             }
         ]
     }
