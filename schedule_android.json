@@ -211,7 +211,30 @@
           {"label": "Migration Candidate", "value": "Fri, Nov 13, 2026", "start": "2026-11-13", "end": "2026-11-13"},
           {"label": "Release Candidate", "value": "Mon, Nov 23, 2026", "start": "2026-11-14", "end": "2026-11-23"},
           {"label": "Final Candidate", "value": "Wed, Nov 25, 2026", "start": "2026-11-24", "end": "2026-11-25"},
-          {"label": "Minor Support", "value": "till Dec 8, 2026", "start": "2026-11-26", "end": "2026-12-08"}
+          {"label": "Minor Support", "value": "till Dec 29, 2026", "start": "2026-11-26", "end": "2026-12-29"}
+        ]
+      },
+      {
+        "version": "159 (internal)",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Nov 11, 2026", "start": "2026-11-11", "end": "2026-11-11"},
+          {"label": "Migration Start", "value": "Wed, Nov 18, 2026", "start": "2026-11-18", "end": "2026-11-26"},
+          {"label": "Feature Freeze", "value": "Thu, Nov 26, 2026", "start": "2026-11-26", "end": "2026-11-26"},
+          {"label": "Migration Candidate", "value": "Fri, Nov 27, 2026", "start": "2026-11-27", "end": "2026-11-27"},
+          {"label": "Release Candidate (optional)", "value": "Mon, Dec 7, 2026", "start": "2026-11-28", "end": "2026-12-07"},
+          {"label": "Final Candidate (optional)", "value": "Wed, Dec 9, 2026", "start": "2026-12-08", "end": "2026-12-09"}
+        ]
+      },
+      {
+        "version": "160",
+        "milestones": [
+          {"label": "Chromium Beta Promotion", "value": "Wed, Dec 2, 2026", "start": "2026-12-02", "end": "2026-12-02"},
+          {"label": "Migration Start", "value": "Wed, Dec 9, 2026", "start": "2026-12-09", "end": "2026-12-17"},
+          {"label": "Feature Freeze", "value": "Thu, Dec 17, 2026", "start": "2026-12-17", "end": "2026-12-17"},
+          {"label": "Migration Candidate", "value": "Fri, Dec 18, 2026", "start": "2026-12-18", "end": "2026-12-18"},
+          {"label": "Release Candidate", "value": "Mon, Dec 28, 2026", "start": "2026-12-19", "end": "2026-12-28"},
+          {"label": "Final Candidate", "value": "Wed, Dec 30, 2026", "start": "2026-12-29", "end": "2026-12-30"},
+          {"label": "Minor Support", "value": "till Jan 12, 2027", "start": "2026-12-31", "end": "2027-01-12"}
         ]
       }
     ]
