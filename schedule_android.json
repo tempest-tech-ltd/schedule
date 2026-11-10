@@ -232,20 +232,20 @@
           {"label": "Migration Start", "value": "Wed, Dec 9, 2026", "start": "2026-12-09", "end": "2026-12-17"},
           {"label": "Feature Freeze", "value": "Thu, Dec 17, 2026", "start": "2026-12-17", "end": "2026-12-17"},
           {"label": "Migration Candidate", "value": "Fri, Dec 18, 2026", "start": "2026-12-18", "end": "2026-12-18"},
-          {"label": "Release Candidate", "value": "Mon, Dec 28, 2026", "start": "2026-12-19", "end": "2026-12-28"},
-          {"label": "Final Candidate", "value": "Wed, Dec 30, 2026", "start": "2026-12-29", "end": "2026-12-30"},
-          {"label": "Minor Support", "value": "till Feb 9, 2027", "start": "2026-12-31", "end": "2027-02-09"}
+          {"label": "Release Candidate", "value": "Mon, Jan 11, 2027", "start": "2026-12-19", "end": "2027-01-11"},
+          {"label": "Final Candidate", "value": "Wed, Jan 13, 2027", "start": "2027-01-12", "end": "2027-01-13"},
+          {"label": "Minor Support", "value": "till Feb 9, 2027", "start": "2027-01-14", "end": "2027-02-09"}
         ]
       },
       {
         "version": "161 (internal)",
         "milestones": [
           {"label": "Chromium Beta Promotion", "value": "Wed, Dec 16, 2026", "start": "2026-12-16", "end": "2026-12-16"},
-          {"label": "Migration Start", "value": "Wed, Dec 23, 2026", "start": "2026-12-23", "end": "2026-12-31"},
-          {"label": "Feature Freeze", "value": "Thu, Dec 31, 2026", "start": "2026-12-31", "end": "2026-12-31"},
-          {"label": "Migration Candidate", "value": "Fri, Jan 1, 2027", "start": "2027-01-01", "end": "2027-01-01"},
-          {"label": "Release Candidate (optional)", "value": "Mon, Jan 11, 2027", "start": "2027-01-02", "end": "2027-01-11"},
-          {"label": "Final Candidate (optional)", "value": "Wed, Jan 13, 2027", "start": "2027-01-12", "end": "2027-01-13"}
+          {"label": "Migration Start", "value": "Wed, Jan 6, 2027", "start": "2027-01-06", "end": "2027-01-14"},
+          {"label": "Feature Freeze", "value": "Thu, Jan 14, 2027", "start": "2027-01-14", "end": "2027-01-14"},
+          {"label": "Migration Candidate", "value": "Fri, Jan 15, 2027", "start": "2027-01-15", "end": "2027-01-15"},
+          {"label": "Release Candidate (optional)", "value": "Mon, Jan 25, 2027", "start": "2027-01-16", "end": "2027-01-25"},
+          {"label": "Final Candidate (optional)", "value": "Wed, Jan 27, 2027", "start": "2027-01-26", "end": "2027-01-27"}
         ]
       },
       {
