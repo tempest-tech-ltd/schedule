@@ -242,6 +242,28 @@
           {"label": "Final Candidate", "value": "Wed, Jan 6, 2027", "start": "2027-01-06", "end": "2027-01-07"},
           {"label": "Minor Support", "value": "till Jan 19, 2027", "start": "2027-01-07", "end": "2027-01-19"}
         ]
+      },
+      {
+        "version": "161",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Dec 16, 2026", "start": "2026-12-16", "end": "2027-01-07"},
+          {"label": "Feature Freeze", "value": "Thu, Jan 7, 2027", "start": "2027-01-07", "end": "2027-01-07"},
+          {"label": "Pre-Release phase", "value": "Fri, Jan 8, 2027", "start": "2027-01-08", "end": "2027-01-17"},
+          {"label": "Release Candidate", "value": "Mon, Jan 18, 2027", "start": "2027-01-18", "end": "2027-01-19"},
+          {"label": "Final Candidate", "value": "Wed, Jan 20, 2027", "start": "2027-01-20", "end": "2027-01-21"},
+          {"label": "Minor Support", "value": "till Feb 2, 2027", "start": "2027-01-21", "end": "2027-02-02"}
+        ]
+      },
+      {
+        "version": "162",
+        "milestones": [
+          {"label": "Migration & Stabilization", "value": "Wed, Jan 13, 2027", "start": "2027-01-13", "end": "2027-01-21"},
+          {"label": "Feature Freeze", "value": "Thu, Jan 21, 2027", "start": "2027-01-21", "end": "2027-01-21"},
+          {"label": "Pre-Release phase", "value": "Fri, Jan 22, 2027", "start": "2027-01-22", "end": "2027-01-31"},
+          {"label": "Release Candidate", "value": "Mon, Feb 1, 2027", "start": "2027-02-01", "end": "2027-02-02"},
+          {"label": "Final Candidate", "value": "Wed, Feb 3, 2027", "start": "2027-02-03", "end": "2027-02-04"},
+          {"label": "Minor Support", "value": "till Feb 16, 2027", "start": "2027-02-04", "end": "2027-02-16"}
+        ]
       }
     ]
   }
