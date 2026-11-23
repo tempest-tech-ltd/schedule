@@ -229,7 +229,43 @@
                     {"label": "Migration Candidate", "value": "Tue, Dec 1, 2026", "start": "2026-12-01", "end": "2026-12-06"},
                     {"label": "Release Candidate", "value": "Mon, Dec 7, 2026", "start": "2026-12-07", "end": "2026-12-08"},
                     {"label": "Final Candidate", "value": "Wed, Dec 9, 2026", "start": "2026-12-09", "end": "2026-12-09"},
-                    {"label": "Support", "value": "till Jan 11, 2027", "start": "2026-12-10", "end": "2027-01-11"}
+                    {"label": "Support", "value": "till Jan 25, 2027", "start": "2026-12-10", "end": "2027-01-25"}
+                ]
+            },
+            {
+                "version": "163 (internal)",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Mon, Nov 30, 2026", "start": "2026-11-30", "end": "2027-01-04"},
+                    {"label": "Migration Candidate", "value": "Tue, Jan 5, 2027", "start": "2027-01-05", "end": "2027-01-05"}
+                ]
+            },
+            {
+                "version": "164",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Mon, Jan 4, 2027", "start": "2027-01-04", "end": "2027-01-14"},
+                    {"label": "Feature Freeze", "value": "Fri, Jan 15, 2027", "start": "2027-01-15", "end": "2027-01-18"},
+                    {"label": "Migration Candidate", "value": "Tue, Jan 19, 2027", "start": "2027-01-19", "end": "2027-01-24"},
+                    {"label": "Release Candidate", "value": "Mon, Jan 25, 2027", "start": "2027-01-25", "end": "2027-01-26"},
+                    {"label": "Final Candidate", "value": "Wed, Jan 27, 2027", "start": "2027-01-27", "end": "2027-01-27"},
+                    {"label": "Support", "value": "till Feb 22, 2027", "start": "2027-01-28", "end": "2027-02-22"}
+                ]
+            },
+            {
+                "version": "165 (internal)",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Mon, Jan 18, 2027", "start": "2027-01-18", "end": "2027-02-01"},
+                    {"label": "Migration Candidate", "value": "Tue, Feb 2, 2027", "start": "2027-02-02", "end": "2027-02-02"}
+                ]
+            },
+            {
+                "version": "166",
+                "milestones": [
+                    {"label": "Migration Start", "value": "Mon, Feb 1, 2027", "start": "2027-02-01", "end": "2027-02-11"},
+                    {"label": "Feature Freeze", "value": "Fri, Feb 12, 2027", "start": "2027-02-12", "end": "2027-02-15"},
+                    {"label": "Migration Candidate", "value": "Tue, Feb 16, 2027", "start": "2027-02-16", "end": "2027-02-21"},
+                    {"label": "Release Candidate", "value": "Mon, Feb 22, 2027", "start": "2027-02-22", "end": "2027-02-23"},
+                    {"label": "Final Candidate", "value": "Wed, Feb 24, 2027", "start": "2027-02-24", "end": "2027-02-24"},
+                    {"label": "Support", "value": "till Mar 22, 2027", "start": "2027-02-25", "end": "2027-03-22"}
                 ]
             }
         ]
